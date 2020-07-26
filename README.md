@@ -10,8 +10,7 @@ Your contributions are always welcome!
 
 - [Resources](#resources)
   * [Starter Pack](#starter-pack)
-  * [Blogs and Content Websites](#blogs-and-content-websites)
-  * [Datasets](#datasets)
+  * [Blogs and Content Websites](#blogs-and-content-websites)  
 
 - [Trading Platforms and Wallets](#trading-platforms-and-wallets)
   * [Exchanges](#exchanges)
@@ -27,7 +26,7 @@ Your contributions are always welcome!
   * [Data Analytics Platforms](#data-analytics-platforms)  
   * [Fundamental Analysis](#fundamental-analysis)
   * [Market Screeners](#market-screeners)
-  * [Other Trading Tools](#other-trading-tools)
+  * [Other Trading Tools and Indicators](#other-trading-tools-and-indicators)
 
 - [Algorithmic Trading](#algorithmic-trading)
   * [Getting Started with Algo Trading](#getting-started-with-algo-trading)
@@ -35,7 +34,7 @@ Your contributions are always welcome!
   * [Backtesters](#backtesters)  
   * [API, Libraries and Frameworks](#api-libraries-and-frameworks)
   * [Other Open-Source Projects](#other-open-source-projects)
-
+  * [Datasets](#datasets)
 
 # Resources
 ## Starter Pack
@@ -54,7 +53,8 @@ Your contributions are always welcome!
 
 * [Investopedia](https://www.investopedia.com/) - Investopedia has a comprehensive financial terms dictionary which includes defination for most terms in trading, including cryptocurrency.
 
-## Datasets
+* [Binance Academy](https://academy.binance.com/) - Binance Academy has educational materials on blockchain and crypto trading technical indicators.
+
 
 # Trading Platforms and Wallets
 ## Exchanges
@@ -70,7 +70,7 @@ Your contributions are always welcome!
 ## Data Analytics Platforms
 ## Fundamental Analysis
 ## Market Screeners
-## Other Trading Tools
+## Other Trading Tools and Indicators
 
 # Algorithmic Trading
 ## Getting Started with Algo Trading
@@ -78,3 +78,5 @@ Your contributions are always welcome!
 ## Backtesters
 ## API, Libraries and Frameworks
 ## Other Open-Source Projects
+## Datasets
+
