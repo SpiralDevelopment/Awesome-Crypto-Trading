@@ -13,10 +13,9 @@ Your contributions are always welcome!
   * [Go-to TA Resources](#go-to-ta-resources)  
   * [Blockchain and Crypto](#blockchain-and-crypto)
 
-- [Trading Platforms and Wallets](#trading-platforms-and-wallets)
-  * [Exchanges](#exchanges)
+- [Trading Platforms](#trading-platforms)
+  * [Crypto Exchanges](#crypto-exchanges)
   * [Trading and Charting Platforms](#trading-and-charting-platforms)  
-  * [Wallets](#wallets)
 
 - [Trackers and Aggregators](#trackers-and-aggregators)
   * [Market Trackers](#market-trackers)
@@ -46,7 +45,7 @@ Your contributions are always welcome!
 
 * [Beginner's Guide to Crypto Trading](https://academy.binance.com/economics/a-complete-guide-to-cryptocurrency-trading-for-beginners) - A Complete Guide to Cryptocurrency Trading for Beginners by Binance Academy
 
-* [ChartSchool by StockCharts](https://school.stockcharts.com/doku.php) - ChartSchool is the educational section of StockCharts which offers series of articles that introduce you to the concepts, strategies and common terminology of technical analysis, as well as other financial analysis methods and important investing topics.
+* [ChartSchool by StockCharts](https://school.stockcharts.com/doku.php) - ChartSchool is the educational section of StockCharts which offers series of articles that introduce you to the concepts, strategies and common terminology of technical analysis and other financial analysis methods.
 
 * [Zerodha Varsity](https://zerodha.com/varsity/module/technical-analysis/) - Series of articles to learn the basics of technical analysis.
 
@@ -62,16 +61,27 @@ Your contributions are always welcome!
 
 * [Binance Academy](https://academy.binance.com/) - Blockchain and cryptocurrency educational portal.
 
-* [Blockchain Basics](https://consensys.net/academy/blockchain-basics-book/) - This guide is designed for anyone who is looking to wrap their head around blockchain technology, how it works, and how it could affect the world around them.
+* [Blockchain Basics](https://consensys.net/academy/blockchain-basics-book/) - This guide is about what is blockchain technology, how it works, and how it could affect the world around them.
 
 * [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp) - Guide to Blockchain by Investopedia. Covers blockchain basics, history and its applications.
 
 * [Glossary](https://blockspot.io/crypto-dictionary/) - Glossary of terms commonly used in the world of blockchain and cryptocurrency
 
-# Trading Platforms and Wallets
-## Exchanges
+# Trading Platforms
+
+## Crypto Exchanges
+* [Binance](https://www.binance.com/en)
+* [Bitfinex](https://www.bitfinex.com/)
+* [Bithumb](https://www.bithumb.com/)
+* [Bitstamp](https://www.bitstamp.net/)
+* [Coinbase Pro](https://pro.coinbase.com/)
+* [Kraken](https://www.kraken.com/)
+
 ## Trading and Charting Platforms
-## Wallets
+
+ * [Tradingview](https://www.tradingview.com/) - Charting and trading platform. Tradingview is also a social network with traders sharing trading ideas in private or publicly.
+ * [Coinigy](https://www.coinigy.com/) - Charting and trading platform. It lists more cryptocurrency exchanges in comparison with Tradingview. It does not allow for the sharing of trading ideas within its system though.
+
 
 # Trackers and Aggregators
 ## Market Trackers
