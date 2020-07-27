@@ -20,7 +20,7 @@ Your contributions are always welcome!
 - [Trading Platforms](#trading-platforms)
   * [Crypto Exchanges](#crypto-exchanges)
   * [OTC Trading](#otc-trading)
-  * [Trading and Charting Platforms](#trading-and-charting-platforms)  
+  * [Charting and Trading Platforms](#charting-and-trading-platforms)  
 
 - [Trackers](#trackers)
   * [Market Trackers](#market-trackers)
@@ -28,9 +28,9 @@ Your contributions are always welcome!
 
 - [Trading tools](#trading-tools)
   * [Events and News Aggregators](#events-and-news-aggregators)
-  * [Market Screeners](#market-screeners)
-  * [Tradingview Indicators](#tradingview-indicators)
+  * [Market Screeners](#market-screeners)  
   * [Data Analytics Platforms](#data-analytics-platforms)  
+  * [Tradingview Indicators](#tradingview-indicators)
   * [Other Trading Tools](#other-trading-tools)
 
 - [Algorithmic Trading](#algorithmic-trading)
@@ -102,7 +102,7 @@ Your contributions are always welcome!
 ## OTC Trading
  * [OTC Trading Desks](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc) - Bitcoin / Crypto OTC Trading Desks
  
-## Trading and Charting Platforms
+## Charting and Trading Platforms
 
  * [Tradingview](https://www.tradingview.com/) - Charting and trading platform. Tradingview is also a social network with traders sharing trading ideas.
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform. It lists more cryptocurrency exchanges in comparison with Tradingview. But, it does not allow for the sharing of trading ideas within its system.
@@ -129,8 +129,8 @@ Your contributions are always welcome!
  * [Cryptocontrol News HeatMap](https://cryptocontrol.io/en/heatmap) - News heatmap lets you view headlines in a different way - the bigger the title, the more important the article.
 
 ## Market Screeners
-## Tradingview Indicators
 ## Data Analytics Platforms
+## Tradingview Indicators
 ## Other Trading Tools
 
 # Algorithmic Trading
