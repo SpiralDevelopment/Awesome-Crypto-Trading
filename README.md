@@ -8,10 +8,15 @@ Your contributions are always welcome!
 
 # Contents
 
-- [Resources](#resources)
+- [Blockchain and Cryptocurrencies](#blockchain-and-cryptocurrencies)
+
+- [Technical Analysis (TA)](#technical-analysis-ta)
   * [Getting Started With TA](#getting-started-with-ta)
   * [Go-to TA Resources](#go-to-ta-resources)  
-  * [Blockchain and Crypto](#blockchain-and-crypto)
+
+- [Fundamental Analysis (FA)](#fundamental-analysis-fa)
+  * [On-chain Analysis](#on-chain-analysis)
+  * [ICO Analysis](#ico-analysis)
 
 - [Trading Platforms](#trading-platforms)
   * [Crypto Exchanges](#crypto-exchanges)
@@ -21,16 +26,11 @@ Your contributions are always welcome!
   * [Market Trackers](#market-trackers)
   * [Portfolio and Tax Trackers](#portfolio-and-tax-trackers)      
 
-- [Market Analysis](#market-analysis)    
-  * [Fundamental Analysis](#fundamental-analysis)  
-  * [On-chain Analysis](#on-chain-analysis) 
-  * [ICO Analysis](#ico-analysis)  
-  * [Data Analytics Platforms](#data-analytics-platforms)  
-
 - [Trading tools](#trading-tools)
   * [Events and News Aggregators](#events-and-news-aggregators)
   * [Market Screeners](#market-screeners)
   * [Tradingview Indicators](#tradingview-indicators)
+  * [Data Analytics Platforms](#data-analytics-platforms)  
   * [Other Trading Tools](#other-trading-tools)
 
 - [Algorithmic Trading](#algorithmic-trading)
@@ -43,12 +43,25 @@ Your contributions are always welcome!
 
 - [Crypto Communities](#crypto-communities)
 
-# Resources
+# Blockchain and Cryptocurrencies
+
+* [Basics of Bitcoin](https://bitcoin.org/en/getting-started) - Getting started with Bitcoin by Bitcoin.org
+
+* [Binance Academy](https://academy.binance.com/) - Blockchain and cryptocurrency educational portal.
+
+* [Blockchain Basics](https://consensys.net/academy/blockchain-basics-book/) - This guide is about what is blockchain technology, how it works, and how it could affect the world around us.
+
+* [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp) - Guide to Blockchain by Investopedia. Covers blockchain basics, history and its applications.
+
+* [Glossary](https://blockspot.io/crypto-dictionary/) - Glossary of terms commonly used in the world of blockchain and cryptocurrency.
+
+
+# Technical Analysis (TA)
 ## Getting Started With TA
 
-* [Babypips](https://www.babypips.com/) - Babypips has a online course (School of Pipsology) that helps beginners to learn how to trade, use chart indicators, spot chart patterns and more.
+* [Babypips](https://www.babypips.com/) - Babypips has an online course (School of Pipsology) that helps beginners to learn how to trade, use chart indicators, spot chart patterns and more.
 
-* [Beginner's Guide to Crypto Trading](https://academy.binance.com/economics/a-complete-guide-to-cryptocurrency-trading-for-beginners) - A Complete Guide to Cryptocurrency Trading for Beginners by Binance Academy
+* [Beginner's Guide to Crypto Trading](https://academy.binance.com/economics/a-complete-guide-to-cryptocurrency-trading-for-beginners) - A Complete Guide to Cryptocurrency Trading for Beginners by Binance Academy.
 
 * [ChartSchool by StockCharts](https://school.stockcharts.com/doku.php) - ChartSchool is the educational section of StockCharts which offers series of articles that introduce you to the concepts, strategies and common terminology of technical analysis and other financial analysis methods.
 
@@ -62,17 +75,17 @@ Your contributions are always welcome!
 
 * [Udemy's TA Courses](https://www.udemy.com/courses/search/?q=technical%20analysis) - Udemy is an online learning and teaching marketplace with many courses, including courses on technical analysis.
 
-## Blockchain and Crypto
+# Fundamental Analysis (FA)
 
-* [Binance Academy](https://academy.binance.com/) - Blockchain and cryptocurrency educational portal.
+ * [Basics of Fundamental Analysis](https://academy.binance.com/economics/what-is-fundamental-analysis-fa) - What is Fundamental Analysis?
+ * [Binance Research](https://research.binance.com/) - Research reports by Binance, covering the topics in the digital asset industry such as blockchain, economics, and finance.
+ * [Crypto Research Report](https://cryptoresearch.report/) - Crypto Reserach Report has a quarterly report which goes through interviews, statistical analysis, fundamental analysis, and the future outlook for the market.
+ * [Fundamental Analysis of Projects. Guide 1](https://yellowblock.io/how-to-research-altcoins/) - Guide to Fundamental Analysis of blockchain projects. [Guide 2](https://blog.tokenmetrics.com/crypto-fundamental-analysis-guide-48896e83a8b9/).
+ 
+## On-chain Analysis
+ * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3).
 
-* [Bitcoin Basics](https://bitcoin.org/en/getting-started) - Getting started with Bitcoin by Bitcoin.org
-
-* [Blockchain Basics](https://consensys.net/academy/blockchain-basics-book/) - This guide is about what is blockchain technology, how it works, and how it could affect the world around us.
-
-* [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp) - Guide to Blockchain by Investopedia. Covers blockchain basics, history and its applications.
-
-* [Glossary](https://blockspot.io/crypto-dictionary/) - Glossary of terms commonly used in the world of blockchain and cryptocurrency.
+## ICO Analysis
 
 # Trading Platforms
 
@@ -100,13 +113,7 @@ Your contributions are always welcome!
 
  * [BlockFolio](https://blockfolio.com/) - Mobile cryptocurrency portfolio tracker app.
  * [CoinTracking](https://cointracking.info/) - CoinTracking is a portfolio tracking platform with tax report generation tool.
- * [TokenTax](https://tokentax.co/) - Token Tax is a tax-focused piece of software which will calculate your crypto taxes in addition to your full income.
- 
-# Market Analysis
-## Fundamental Analysis
-## On-chain Analysis
-## ICO Analysis
-## Data Analytics Platforms
+ * [TokenTax](https://tokentax.co/) - Token Tax is a tax-focused software which will calculate your crypto taxes in addition to your full income.
 
 # Trading Tools
 ## Events and News Aggregators
@@ -117,6 +124,7 @@ Your contributions are always welcome!
 
 ## Market Screeners
 ## Tradingview Indicators
+## Data Analytics Platforms
 ## Other Trading Tools
 
 # Algorithmic Trading
