@@ -16,11 +16,12 @@ Your contributions are always welcome!
 
 - [Fundamental Analysis (FA)](#fundamental-analysis-fa)
   * [On-chain Analysis](#on-chain-analysis)
-  * [ICO Analysis](#ico-analysis)
 
 - [Trading Platforms](#trading-platforms)
   * [Crypto Exchanges](#crypto-exchanges)
   * [Trading and Charting Platforms](#trading-and-charting-platforms)  
+
+- [OTC Trading](#otc-trading)
 
 - [Trackers](#trackers)
   * [Market Trackers](#market-trackers)
@@ -83,9 +84,9 @@ Your contributions are always welcome!
  * [Fundamental Analysis of Projects. Guide 1](https://yellowblock.io/how-to-research-altcoins/) - Guide to Fundamental Analysis of blockchain projects. [Guide 2](https://blog.tokenmetrics.com/crypto-fundamental-analysis-guide-48896e83a8b9/).
  
 ## On-chain Analysis
- * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3).
-
-## ICO Analysis
+ * [Coinmetrics Substack](https://coinmetrics.substack.com/) - "State of the Network" newsletter
+ * [On-Chain Data Analysis Academy](https://academy.glassnode.com/) - Learn about diffferent on-chain metrics at Glassnode academy.
+ * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3). 
 
 # Trading Platforms
 
@@ -103,6 +104,9 @@ Your contributions are always welcome!
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform. It lists more cryptocurrency exchanges in comparison with Tradingview. But, it does not allow for the sharing of trading ideas within its system.
  * [Cryptowat.ch](https://cryptowat.ch/) - Charting and trading platform owned by Kraken and is exclusively designed for bitcoin and altcoin traders.
  
+# OTC Trading
+ * [OTC Trading Desks](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc) - Bitcoin / Crypto OTC Trading Desks
+
 # Trackers
 ## Market Trackers
  * [Coinmarketcap](https://coinmarketcap.com/) - CoinMarketCap provides information about all digital currencies that are traded in at least one public exchange.
