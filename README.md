@@ -20,8 +20,7 @@ Your contributions are always welcome!
 - [Trading Platforms](#trading-platforms)
   * [Crypto Exchanges](#crypto-exchanges)
   * [Trading and Charting Platforms](#trading-and-charting-platforms)  
-
-- [OTC Trading](#otc-trading)
+  * [OTC Trading](#otc-trading)
 
 - [Trackers](#trackers)
   * [Market Trackers](#market-trackers)
@@ -104,7 +103,7 @@ Your contributions are always welcome!
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform. It lists more cryptocurrency exchanges in comparison with Tradingview. But, it does not allow for the sharing of trading ideas within its system.
  * [Cryptowat.ch](https://cryptowat.ch/) - Charting and trading platform owned by Kraken and is exclusively designed for bitcoin and altcoin traders.
  
-# OTC Trading
+## OTC Trading
  * [OTC Trading Desks](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc) - Bitcoin / Crypto OTC Trading Desks
 
 # Trackers
