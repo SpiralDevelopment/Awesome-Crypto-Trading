@@ -35,11 +35,11 @@ Your contributions are always welcome!
 
 - [Coding Your Own Bots](#coding-your-own-bots)
   * [Trading Bots and Bot Frameworks](#trading-bots-and-bot-frameworks)
-  * [Arbitrage](#arbitrage)
-  * [Backtesters](#backtesters)  
-  * [API](#api)
+   + [Market Making Bots](#market-making-bots)
+  * [Backtesters](#backtesters) 
+  * [Arbitrage](#arbitrage)  
+  * [API and Datasets](#api-and-datasets)
   * [Other Projects](#other-projects)
-  * [Datasets](#datasets)  
 
 - [Crypto Communities](#crypto-communities)
 
@@ -153,12 +153,12 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Automate Your Trading
 
-Using the following tools, you can automate your trading. You can use software's dashboards to build your strategy - no programming skills required. However, based on the complexity of your strategy, they could be limited compared to coding your own bot from the ground.
+Using the following tools, you can automate your trading using web-based dashboards to build your strategy - no programming skills required. However, based on the complexity of your strategy, they could be limited compared to coding your own bot from the ground.
 
- * [3Commas](https://3commas.io/) - 3Commas has 3 types of ready-to-use bots. It also allows you to do manual trading with trailing stop-loss/take-profits and do copy trading.
+ * [3Commas](https://3commas.io/) - 3Commas has 3 types of ready-to-use bots. It also allows you to do semi-automated trading with trailing stop-loss/take-profits and copy trading.
  * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.
  * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to make your own TA strategy. There’s also a marketplace where you can copy other users’ strategies.
- * [HaasOnline](https://www.haasonline.com/) - Haasbot is more like a enterprise solution.
+ * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools at a cost which does seem more like an enterprise solution.
 
 ## Other Trading Tools 
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
@@ -168,25 +168,26 @@ Using the following tools, you can automate your trading. You can use software's
  * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
 
 # Coding Your Own Bots 
-**All projects mentioned here are open-source.**
+
+All projects mentioned here are open-source projects.
+
 ## Trading Bots and Bot Frameworks
  * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
- * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
- * [Tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
+ * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB. 
  * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
  * [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++ 
  * [Bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java.
- * [Bowhead](https://github.com/joeldg/bowhead) - PHP trading bot framework
+ * [Bowhead](https://github.com/joeldg/bowhead) - A REST-API and console-based cryptocurrency trading bot framework written in PHP.
  * [Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript 
  * [Freqtrad](https://github.com/freqtrade/freqtrade) - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
- * []
- 
-## Arbitrage
- * [Bitcoin Arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
- * [Binance Triangle Arbitrage](https://github.com/bmino/binance-triangle-arbitrage) - Detect arbitrage - opportunity in Binance with triangle arbitrage
- * [Blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
- * [Peregrine](https://github.com/wardbradt/peregrine) - Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries
- 
+
+### Market Making Bots 
+ * [HummingBot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making
+ * [Sample Market Maker](https://github.com/BitMEX/sample-market-maker) - Sample BitMEX Market Making Bot
+ * [Tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
+ * [Market Maker Keeper](https://github.com/makerdao/market-maker-keeper) - Maker Keeper Framework
+ * [DexBot](https://github.com/Codaone/DEXBot) - A Trading Bot provided with two very flexible Market Making strategies.
+
 ## Backtesters
  * [Backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies.
  * [Lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading. 
@@ -194,7 +195,13 @@ Using the following tools, you can automate your trading. You can use software's
  * [Quantopian](https://www.quantopian.com/home) - Platform for developing and backtesting trading algorithms with Python.
  * [Zipline](https://github.com/quantopian/zipline) - Backtester. Zipline is the underlying software for the Quantopian's backtesting engine. 
  
-## API
+## Arbitrage
+ * [Bitcoin Arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
+ * [Binance Triangle Arbitrage](https://github.com/bmino/binance-triangle-arbitrage) - Detect arbitrage - opportunity in Binance with triangle arbitrage
+ * [Blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
+ * [Peregrine](https://github.com/wardbradt/peregrine) - Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries
+  
+## API and Datasets
  * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges.
  * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency Data API
  * [CoinGecko](https://www.coingecko.com/en/api) - Cryptocurrency Data API 
@@ -205,8 +212,6 @@ Using the following tools, you can automate your trading. You can use software's
  * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency Technical Analysis.
  * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools.
  * [T-1000](https://github.com/Draichi/T-1000) - Deep reinforcement learning applied to cryptocurrencies.
-
-## Datasets
 
 # Crypto Communities
  * [BitcoinTalk](https://bitcointalk.org/) - Forum zone which coordinates almost everything that happens around the crypto world.
