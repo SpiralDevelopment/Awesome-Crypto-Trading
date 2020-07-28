@@ -29,8 +29,7 @@ Your contributions are always welcome!
 - [Trading tools](#trading-tools)
   * [Events and News Aggregators](#events-and-news-aggregators)
   * [Market Screeners](#market-screeners)  
-  * [Analytics Platforms and Charts](#analytics-platforms-and-charts)  
-  * [Tradingview Indicators](#tradingview-indicators)
+  * [Data Analytics Platforms](#data-analytics-platforms)   
   * [Other Trading Tools](#other-trading-tools)
 
 - [Algorithmic Trading](#algorithmic-trading)
@@ -90,9 +89,11 @@ Your contributions are always welcome!
 ## Crypto Exchanges
 * [Binance](https://www.binance.com/en)
 * [Bitfinex](https://www.bitfinex.com/)
+* [Bitmex](https://www.bitmex.com/)
 * [Bithumb](https://www.bithumb.com/)
 * [Bitstamp](https://www.bitstamp.net/)
 * [Coinbase Pro](https://pro.coinbase.com/)
+* [Huobi Global](https://www.huobi.com/en-us/)
 * [Kraken](https://www.kraken.com/)
 
 ## OTC Trading
@@ -103,6 +104,7 @@ Your contributions are always welcome!
  * [Tradingview](https://www.tradingview.com/) - Charting and trading platform. Tradingview is also a social network with traders sharing trading ideas.
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform. It lists more cryptocurrency exchanges in comparison with Tradingview. But, it does not allow for the sharing of trading ideas within its system.
  * [Cryptowat.ch](https://cryptowat.ch/) - Charting and trading platform owned by Kraken and is exclusively designed for bitcoin and altcoin traders.
+ * [Tensorcharts](https://tensorcharts.com/) - Charting platform featuring S/R levels, trades/orders heatmaps and counters.
 
 ## Trading Simulators
 
@@ -137,7 +139,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Crypto Screener by Wallmine](https://wallmine.com/cryptocurrency-screener?d=d&o=m) - Cryptocurrency Screener that offers several metrics and filters.
  * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics. 
 
-## Analytics Platforms and Charts
+## Data Analytics Platforms
  * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
  * [Blockchain Charts](https://www.blockchain.com/charts) - Charts on currency statistics, block details, mining information, network activity, wallet activity and market signals.
  * [Coinmetrics](https://coinmetrics.io/) - Coin Metrics provides crypto asset market and network data. 
@@ -148,8 +150,13 @@ Play with trading simulators where you can engage with the market and practice y
  * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
  * [Woobull Charts](http://charts.woobull.com/) - Various price models for Bitcoin.
 
-## Tradingview Indicators
 ## Other Trading Tools
+ * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
+ * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
+ * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex.
+ * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with portfolio rebalancing feature.
+ * [Trade aggregator](https://aggr.trade) - Huge trades aggregator.
+ * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
 
 # Algorithmic Trading
 ## Getting Started with Algo Trading
