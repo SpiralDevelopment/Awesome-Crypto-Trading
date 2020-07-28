@@ -35,11 +35,11 @@ Your contributions are always welcome!
 
 - [Coding Your Own Bots](#coding-your-own-bots)
   * [Trading Bots and Bot Frameworks](#trading-bots-and-bot-frameworks)
-   + [Market Making Bots](#market-making-bots)
+    - [Market Making Bots](#market-making-bots)
   * [Backtesters](#backtesters) 
   * [Arbitrage](#arbitrage)  
   * [API and Datasets](#api-and-datasets)
-  * [Other Projects](#other-projects)
+  * [Others](#others)
 
 - [Crypto Communities](#crypto-communities)
 
@@ -190,8 +190,9 @@ All projects mentioned here are open-source projects.
 
 ## Backtesters
  * [Backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies.
- * [Lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading. 
- * [Quantconnect](https://www.quantconnect.com/) - QuantConnect enables you to code, backtest, and deploy your own automated trading strategies.
+ * [Catalyst](https://github.com/enigmampc/catalyst) - Python library to backtest trading strategies.
+ * [Lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for strategy research, backtesting and live trading. 
+ * [Quantconnect](https://www.quantconnect.com/) - QuantConnect - code, backtest, and deploy automated trading strategies.
  * [Quantopian](https://www.quantopian.com/home) - Platform for developing and backtesting trading algorithms with Python.
  * [Zipline](https://github.com/quantopian/zipline) - Backtester. Zipline is the underlying software for the Quantopian's backtesting engine. 
  
@@ -203,15 +204,16 @@ All projects mentioned here are open-source projects.
   
 ## API and Datasets
  * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges.
- * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency Data API
- * [CoinGecko](https://www.coingecko.com/en/api) - Cryptocurrency Data API 
- * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources. 
+ * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency Data API.
+ * [CoinGecko](https://www.coingecko.com/en/api) - Another Cryptocurrency Data API.
+ * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - One more Cryptocurrency Data API.
 
-## Other Projects
+## Others
  * [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) - Some quantitative trading strategies.
  * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency Technical Analysis.
  * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools.
- * [T-1000](https://github.com/Draichi/T-1000) - Deep reinforcement learning applied to cryptocurrencies.
+ * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning.
+ * [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading/blob/master/README.md) - List of resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
 # Crypto Communities
  * [BitcoinTalk](https://bitcointalk.org/) - Forum zone which coordinates almost everything that happens around the crypto world.
