@@ -153,12 +153,12 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Automate Your Trading
 
-Using the following tools, you can automate your trading using web-based dashboards to build your strategy - no programming skills required. However, based on the complexity of your strategy, they could be limited compared to coding your own bot from the ground.
+Using the following tools, you can automate your trading building bots on web-based dashboards - no programming skills required.
 
  * [3Commas](https://3commas.io/) - Ready-to-use bots; Copy trading platform; Trailing stop-loss/take-profit orders.
  * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.
  * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to automate TA strategy. There's also a marketplace where you can copy other users' strategies.
- * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools at a cost which does seem more like an enterprise solution.
+ * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools to automate TA strategy at a cost which does seem more like an enterprise solution.
 
 ## Other Trading Tools 
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
