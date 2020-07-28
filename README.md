@@ -34,11 +34,12 @@ Your contributions are always welcome!
   * [Other Trading Tools](#other-trading-tools)
 
 - [Coding Your Own Bots](#coding-your-own-bots)
-  * [Customizable Solutions](#customizable-solutions)
+  * [Trading Bots and Bot Frameworks](#trading-bots-and-bot-frameworks)
+  * [Arbitrage](#arbitrage)
   * [Backtesters](#backtesters)  
-  * [API, Libraries and Frameworks](#api-libraries-and-frameworks)
-  * [Datasets](#datasets)
-  * [Other Open-Source Projects](#other-open-source-projects)  
+  * [API](#api)
+  * [Other Projects](#other-projects)
+  * [Datasets](#datasets)  
 
 - [Crypto Communities](#crypto-communities)
 
@@ -168,11 +169,43 @@ Using the following tools, you can automate your trading. You can use software's
 
 # Coding Your Own Bots 
 **All projects mentioned here are open-source.**
-## Customizable Solutions
- * [Gekko](https://gekko.wizb.it/) - Gekko has many of the key features needed for automated trading. Offers ability to import historical market data, backtest trading strategies and paper trade.
+## Trading Bots and Bot Frameworks
+ * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
+ * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+ * [Tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
+ * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
+ * [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++ 
+ * [Bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java.
+ * [Bowhead](https://github.com/joeldg/bowhead) - PHP trading bot framework
+ * [Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript 
+ * [Freqtrad](https://github.com/freqtrade/freqtrade) - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
+ * []
+ 
+## Arbitrage
+ * [Bitcoin Arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage - opportunity detector
+ * [Binance Triangle Arbitrage](https://github.com/bmino/binance-triangle-arbitrage) - Detect arbitrage - opportunity in Binance with triangle arbitrage
+ * [Blackbird](https://github.com/butor/blackbird) - Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
+ * [Peregrine](https://github.com/wardbradt/peregrine) - Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries
+ 
 ## Backtesters
-## API, Libraries and Frameworks
+ * [Backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies.
+ * [Lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading. 
+ * [Quantconnect](https://www.quantconnect.com/) - QuantConnect enables you to code, backtest, and deploy your own automated trading strategies.
+ * [Quantopian](https://www.quantopian.com/home) - Platform for developing and backtesting trading algorithms with Python.
+ * [Zipline](https://github.com/quantopian/zipline) - Backtester. Zipline is the underlying software for the Quantopian's backtesting engine. 
+ 
+## API
+ * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges.
+ * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency Data API
+ * [CoinGecko](https://www.coingecko.com/en/api) - Cryptocurrency Data API 
+ * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources. 
+
 ## Other Projects
+ * [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) - Some quantitative trading strategies.
+ * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency Technical Analysis.
+ * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools.
+ * [T-1000](https://github.com/Draichi/T-1000) - Deep reinforcement learning applied to cryptocurrencies.
+
 ## Datasets
 
 # Crypto Communities
