@@ -21,6 +21,7 @@ Your contributions are always welcome!
   * [Crypto Exchanges](#crypto-exchanges)
   * [OTC Trading](#otc-trading)
   * [Charting and Trading Platforms](#charting-and-trading-platforms)  
+  * [Trading Simulators](#trading-simulators)
 
 - [Trackers](#trackers)
   * [Market Trackers](#market-trackers)
@@ -29,7 +30,7 @@ Your contributions are always welcome!
 - [Trading tools](#trading-tools)
   * [Events and News Aggregators](#events-and-news-aggregators)
   * [Market Screeners](#market-screeners)  
-  * [Data Analytics Platforms](#data-analytics-platforms)  
+  * [Analytics Platforms and Charts](#analytics-platforms-and-charts)  
   * [Tradingview Indicators](#tradingview-indicators)
   * [Other Trading Tools](#other-trading-tools)
 
@@ -85,8 +86,7 @@ Your contributions are always welcome!
  * [Fundamental Analysis of Projects. Guide 1](https://yellowblock.io/how-to-research-altcoins/) - Guide to Fundamental Analysis of blockchain projects. [Guide 2](https://blog.tokenmetrics.com/crypto-fundamental-analysis-guide-48896e83a8b9/).
  
 ## On-chain Analysis
- * [Coinmetrics Substack](https://coinmetrics.substack.com/) - "State of the Network" newsletter
- * [On-Chain Data Analysis Academy](https://academy.glassnode.com/) - Learn about diffferent on-chain metrics at Glassnode academy.
+ * [Coinmetrics Substack](https://coinmetrics.substack.com/) - "State of the Network" newsletter 
  * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3). 
 
 # Trading Platforms
@@ -108,7 +108,14 @@ Your contributions are always welcome!
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform. It lists more cryptocurrency exchanges in comparison with Tradingview. But, it does not allow for the sharing of trading ideas within its system.
  * [Cryptowat.ch](https://cryptowat.ch/) - Charting and trading platform owned by Kraken and is exclusively designed for bitcoin and altcoin traders.
 
+## Trading Simulators
 
+Play with trading simulators where you can engage with the market and practice your strategies before moving on to the real deal.
+
+ * [Altcoinfantasy](https://www.altcoinfantasy.com/)
+ * [Bitcoinflip](https://bitcoinflip.app/)
+ * [Cryptoparrot](https://cryptoparrot.com/)
+ 
 # Trackers
 ## Market Trackers
  * [Coinmarketcap](https://coinmarketcap.com/) - CoinMarketCap provides information about all digital currencies that are traded in at least one public exchange.
@@ -127,9 +134,24 @@ Your contributions are always welcome!
  * [Coindar](https://coindar.org/) - Another service similar to CoinMarketCal with ability to view major events happening soon at a glance.
  * [Cryptopanic](https://cryptopanic.com/) - News aggregator.
  * [Cryptocontrol News HeatMap](https://cryptocontrol.io/en/heatmap) - News heatmap lets you view headlines in a different way - the bigger the title, the more important the article.
+ * [Faws](https://faws.com/) - Another News aggregator.
 
 ## Market Screeners
-## Data Analytics Platforms
+
+ * [Crypto Screener by Wallmine](https://wallmine.com/cryptocurrency-screener?d=d&o=m) - Cryptocurrency Screener that offers several metrics and filters.
+ * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics. 
+
+## Analytics Platforms and Charts
+ * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
+ * [Blockchain Charts](https://www.blockchain.com/charts) - Charts on currency statistics, block details, mining information, network activity, wallet activity and market signals.
+ * [Coinmetrics](https://coinmetrics.io/) - Coin Metrics provides crypto asset market and network data. 
+ * [Datalight](http://datalight.me/) - Blockchain activity, social media and market data analytics tool.
+ * [Glassnode](https://studio.glassnode.com/) - On-Chain Market Indicators. Glassnode also has an [academy](https://academy.glassnode.com/) to learn about diffferent on-chain metrics.
+ * [Omenics](https://omenics.com/) - Market sentiment and crypto coins tracker.
+ * [Skew](https://skew.com/) - Real-time data analytics for Bitcoin and Ether derivatives: Options, Futures and Perpetual Swaps.
+ * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
+ * [Woobull Charts](http://charts.woobull.com/) - Various price models for Bitcoin.
+
 ## Tradingview Indicators
 ## Other Trading Tools
 
