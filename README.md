@@ -118,18 +118,18 @@ Play with trading simulators where you can engage with the market and practice y
 # Trackers
 ## Market Trackers
  * [Coinmarketcap](https://coinmarketcap.com/) - CoinMarketCap provides information about all digital currencies that are traded in at least one public exchange.
- * [Coingecko](https://www.coingecko.com/en) - Like CMC, CoinGecko is a platform for tracking cryptocurrencies and blockchain assets worldwide.
+ * [Coingecko](https://www.coingecko.com/en) - Like CMC, CoinGecko is a platform for tracking cryptocurrencies and blockchain assets.
  * [Coin360](https://coin360.com/) - Heatmap of cryptocurrency prices, market capitalizations, and volumes.
  
 ## Portfolio and Tax Trackers
 
  * [BlockFolio](https://blockfolio.com/) - Mobile cryptocurrency portfolio tracker app.
  * [CoinTracking](https://cointracking.info/) - CoinTracking is a portfolio tracking platform with tax report generation tool.
- * [TokenTax](https://tokentax.co/) - Token Tax is a tax-focused software which will calculate your crypto taxes in addition to your full income.
+ * [TokenTax](https://tokentax.co/) - Token Tax is a tax-focused software which calculates your crypto taxes in addition to your full income.
 
 # Trading Tools
 ## Events and News Aggregators
- * [Coinmarketcal](https://coinmarketcal.com/en/) - It is a events aggregator tool that shows you upcoming events on different projects.
+ * [Coinmarketcal](https://coinmarketcal.com/en/) - Events aggregator tool that shows you upcoming events on different projects.
  * [Coindar](https://coindar.org/) - Another service similar to CoinMarketCal with ability to view major events happening soon at a glance.
  * [Cryptopanic](https://cryptopanic.com/) - News aggregator.
  * [Cryptocontrol News HeatMap](https://cryptocontrol.io/en/heatmap) - News heatmap lets you view headlines in a different way - the bigger the title, the more important the article.
@@ -155,9 +155,9 @@ Play with trading simulators where you can engage with the market and practice y
 
 Using the following tools, you can automate your trading using web-based dashboards to build your strategy - no programming skills required. However, based on the complexity of your strategy, they could be limited compared to coding your own bot from the ground.
 
- * [3Commas](https://3commas.io/) - 3Commas has 3 types of ready-to-use bots. It also allows you to do semi-automated trading with trailing stop-loss/take-profits and copy trading.
+ * [3Commas](https://3commas.io/) - Ready-to-use bots; Copy trading platform; Trailing stop-loss/take-profit orders.
  * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.
- * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to make your own TA strategy. There’s also a marketplace where you can copy other users’ strategies.
+ * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to automate TA strategy. There's also a marketplace where you can copy other users' strategies.
  * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools at a cost which does seem more like an enterprise solution.
 
 ## Other Trading Tools 
@@ -175,7 +175,7 @@ All projects mentioned here are open-source projects.
  * [Bowhead](https://github.com/joeldg/bowhead) - A REST-API and console-based cryptocurrency trading bot framework written in PHP.
  * [Bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java. 
  * [Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript.
- * [Freqtrad](https://github.com/freqtrade/freqtrade) - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
+ * [Freqtrade](https://github.com/freqtrade/freqtrade) - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
  * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
  * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
  * [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++.
@@ -213,7 +213,7 @@ All projects mentioned here are open-source projects.
  * [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading/blob/master/README.md) - List of resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
  * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning. 
  * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency Technical Analysis.
- * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results and some useful tools. 
+ * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results. 
 
 # Crypto Communities
  * [BitcoinTalk](https://bitcointalk.org/) - Forum zone which coordinates almost everything that happens around the crypto world.
