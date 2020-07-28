@@ -30,11 +30,11 @@ Your contributions are always welcome!
   * [Events and News Aggregators](#events-and-news-aggregators)
   * [Market Screeners](#market-screeners)  
   * [Data Analytics Platforms](#data-analytics-platforms)   
+  * [Automate Your Trading](#automate-your-trading)   
   * [Other Trading Tools](#other-trading-tools)
 
-- [Algorithmic Trading](#algorithmic-trading)
-  * [Getting Started with Algo Trading](#getting-started-with-algo-trading)
-  * [Trading Bots](#trading-bots)
+- [Coding Your Own Bots](#coding-your-own-bots)
+  * [Customizable Solutions](#customizable-solutions)
   * [Backtesters](#backtesters)  
   * [API, Libraries and Frameworks](#api-libraries-and-frameworks)
   * [Datasets](#datasets)
@@ -150,20 +150,29 @@ Play with trading simulators where you can engage with the market and practice y
  * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
  * [Woobull Charts](http://charts.woobull.com/) - Various price models for Bitcoin.
 
-## Other Trading Tools
+## Automate Your Trading
+
+Using the following tools, you can automate your trading. You can use software's dashboards to build your strategy - no programming skills required. However, based on the complexity of your strategy, they could be limited compared to coding your own bot from the ground.
+
+ * [3Commas](https://3commas.io/) - 3Commas has 3 types of ready-to-use bots. It also allows you to do manual trading with trailing stop-loss/take-profits and do copy trading.
+ * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.
+ * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to make your own TA strategy. There’s also a marketplace where you can copy other users’ strategies.
+ * [HaasOnline](https://www.haasonline.com/) - Haasbot is more like a enterprise solution.
+
+## Other Trading Tools 
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
- * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex.
- * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with portfolio rebalancing feature.
+ * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
  * [Trade aggregator](https://aggr.trade) - Huge trades aggregator.
  * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
 
-# Algorithmic Trading
-## Getting Started with Algo Trading
-## Trading Bots
+# Coding Your Own Bots 
+**All projects mentioned here are open-source.**
+## Customizable Solutions
+ * [Gekko](https://gekko.wizb.it/) - Gekko has many of the key features needed for automated trading. Offers ability to import historical market data, backtest trading strategies and paper trade.
 ## Backtesters
 ## API, Libraries and Frameworks
-## Other Open-Source Projects
+## Other Projects
 ## Datasets
 
 # Crypto Communities
