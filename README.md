@@ -18,6 +18,8 @@ Your contributions are always welcome!
 
 - [Trading Platforms](#trading-platforms)
   * [Crypto Exchanges](#crypto-exchanges)
+    - [Spot Exchanges](#spot-exchanges)
+    - [Derivative Exchanges](#derivative-exchanges)
   * [OTC Trading](#otc-trading)
   * [Charting and Trading Platforms](#charting-and-trading-platforms)  
   * [Trading Simulators](#trading-simulators)
@@ -88,24 +90,31 @@ Your contributions are always welcome!
 # Trading Platforms
 
 ## Crypto Exchanges
+### Spot Exchanges
 * [Binance](https://www.binance.com/en)
 * [Bitfinex](https://www.bitfinex.com/)
-* [Bitmex](https://www.bitmex.com/)
 * [Bithumb](https://www.bithumb.com/)
 * [Bitstamp](https://www.bitstamp.net/)
 * [Coinbase Pro](https://pro.coinbase.com/)
 * [Huobi Global](https://www.huobi.com/en-us/)
 * [Kraken](https://www.kraken.com/)
 
+### Derivative Exchanges
+* [Binance (Futures)](https://www.binance.com/en)
+* [Bitmex](https://www.bitmex.com/)
+* [Bybit](https://www.bybit.com/)
+* [FTX](https://ftx.com/)
+* [Huobi (Futures)](https://www.huobi.com/)
+* [Okex (Futures)](https://www.okex.com/)
+
 ## OTC Trading
  * [OTC Trading Desks](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc) - Bitcoin / Crypto OTC Trading Desks
  
 ## Charting and Trading Platforms
 
- * [Tradingview](https://www.tradingview.com/) - Charting and trading platform. Tradingview is also a social network with traders sharing trading ideas.
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform. It lists more cryptocurrency exchanges in comparison with Tradingview. But, it does not allow for the sharing of trading ideas within its system.
  * [Cryptowat.ch](https://cryptowat.ch/) - Charting and trading platform owned by Kraken and is exclusively designed for bitcoin and altcoin traders.
- * [Tensorcharts](https://tensorcharts.com/) - Charting platform featuring S/R levels, trades/orders heatmaps and counters.
+ * [Tradingview](https://www.tradingview.com/) - Charting and trading platform. Tradingview is also a social network with traders sharing trading ideas.   
 
 ## Trading Simulators
 
@@ -128,9 +137,11 @@ Play with trading simulators where you can engage with the market and practice y
  * [TokenTax](https://tokentax.co/) - Token Tax is a tax-focused software which calculates your crypto taxes in addition to your full income.
 
 # Trading Tools
-## Events and News Aggregators
- * [Coinmarketcal](https://coinmarketcal.com/en/) - Events aggregator tool that shows you upcoming events on different projects.
- * [Coindar](https://coindar.org/) - Another service similar to CoinMarketCal with ability to view major events happening soon at a glance.
+## Events and News Aggregators 
+ * [Coindar](https://coindar.org/) - Events calendar with ability to view major events happening soon at a glance.
+ * [Coindesk](https://www.coindesk.com/) - News site specializing in cryptocurrencies and digital assets. 
+ * [Coinmarketcal](https://coinmarketcal.com/en/) - Events calendar that shows you upcoming events on different projects.
+ * [Cointelegraph](https://cointelegraph.com/) - News site covering news on blockchain technology, crypto assets, and fintech. 
  * [Cryptopanic](https://cryptopanic.com/) - News aggregator.
  * [Cryptocontrol News HeatMap](https://cryptocontrol.io/en/heatmap) - News heatmap lets you view headlines in a different way - the bigger the title, the more important the article.
  * [Faws](https://faws.com/) - Another News aggregator.
@@ -153,12 +164,12 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Automate Your Trading
 
-Using the following tools, you can automate your trading building bots on web-based dashboards - no programming skills required.
+Using the following tools, you can automate your trading by building bots on web-based dashboards - no programming skills required.
 
  * [3Commas](https://3commas.io/) - Ready-to-use bots; Copy trading platform; Trailing stop-loss/take-profit orders.
- * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.
  * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to automate TA strategy. There's also a marketplace where you can copy other users' strategies.
  * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools to automate TA strategy at a cost which does seem more like an enterprise solution.
+ * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.  
 
 ## Other Trading Tools 
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
@@ -172,19 +183,19 @@ Using the following tools, you can automate your trading building bots on web-ba
 ## Trading Bots and Bot Frameworks
  * [Bowhead](https://github.com/joeldg/bowhead) - A REST-API and console-based cryptocurrency trading bot framework written in PHP.
  * [Bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java. 
- * [Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript.
+ * [Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in Javascript.
  * [Freqtrade](https://github.com/freqtrade/freqtrade) - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
  * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
  * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. 
  * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.   
 
 ### Market Making Bots 
- * [DexBot](https://github.com/Codaone/DEXBot) - A Trading Bot provided with two very flexible Market Making strategies.
+ * [DexBot](https://github.com/Codaone/DEXBot) - A Trading Bot provided with two very flexible market-making strategies.
  * [HummingBot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making.
- * [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++.
- * [Market Maker Keeper](https://github.com/makerdao/market-maker-keeper) - Maker Keeper Framework.
- * [Sample Market Maker](https://github.com/BitMEX/sample-market-maker) - Sample BitMEX Market Making Bot.
- * [Tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js.  
+ * [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in Node.js, Angular, Typescript and C++.
+ * [Market Maker Keeper](https://github.com/makerdao/market-maker-keeper) - Maker keeper framework.
+ * [Sample Market Maker](https://github.com/BitMEX/sample-market-maker) - Sample BitMEX market-making bot.
+ * [Tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market-making cryptocurrency trading platform in Node.js.  
 
 ### Arbitrage
  * [Bitcoin Arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
@@ -193,7 +204,7 @@ Using the following tools, you can automate your trading building bots on web-ba
  * [Peregrine](https://github.com/wardbradt/peregrine) - Detects arbitrage opportunities across 131 cryptocurrency exchanges in 50 countries.
 
 ## Backtesters
- * [Backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies.
+ * [Backtrader](https://github.com/mementum/backtrader) - Python backtesting library for trading strategies.
  * [Catalyst](https://github.com/enigmampc/catalyst) - Python library to backtest trading strategies.
  * [Lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for strategy research, backtesting and live trading. 
  * [Quantconnect](https://www.quantconnect.com/) - Code, backtest, and deploy automated trading strategies.
@@ -202,7 +213,7 @@ Using the following tools, you can automate your trading building bots on web-ba
    
 ## API and Datasets
  * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges.
- * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency Data API solely focused on providing price and market data.
+ * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
  * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
 
@@ -210,7 +221,7 @@ Using the following tools, you can automate your trading building bots on web-ba
  * [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) - Some quantitative trading strategies.
  * [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading/blob/master/README.md) - List of resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
  * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning. 
- * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency Technical Analysis.
+ * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency TA.
  * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results. 
 
 # Crypto Communities
