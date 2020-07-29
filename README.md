@@ -10,17 +10,13 @@
 
 # About 
 
-:sparkles:**An awesome curated list of resources, software and tools for crypto traders**:sparkles:
+**An awesome curated list of resources, software and tools for crypto traders**:sparkles:
 
 # Contents
 
 - [Blockchain and Cryptocurrencies](#blockchain-and-cryptocurrencies)
 
-- [Technical Analysis (TA)](#technical-analysis-ta)
-  * [Getting Started With TA](#getting-started-with-ta)
-  * [Go-to TA Resources](#go-to-ta-resources)  
-
-- [Fundamental Analysis (FA)](#fundamental-analysis-fa)
+- [Cryptocurrency Trading](#cryptocurrency-trading)
 
 - [Trading Platforms](#trading-platforms)
   * [Crypto Exchanges](#crypto-exchanges)
@@ -29,6 +25,12 @@
   * [OTC Trading](#otc-trading)
   * [Charting and Trading Platforms](#charting-and-trading-platforms)  
   * [Trading Simulators](#trading-simulators)
+
+- [Fundamental Analysis (FA)](#fundamental-analysis-fa)
+
+- [Technical Analysis (TA)](#technical-analysis-ta)
+  * [Getting Started With TA](#getting-started-with-ta)
+  * [Go-to TA Resources](#go-to-ta-resources)  
 
 - [Trackers](#trackers)
   * [Market Trackers](#market-trackers)
@@ -57,7 +59,7 @@
 
 * [Basics of Bitcoin](https://bitcoin.org/en/getting-started) - Getting started with Bitcoin by Bitcoin.org
 
-* [Binance Academy](https://academy.binance.com/) - Blockchain and cryptocurrency educational portal.
+* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - Wiki with over 1.000 pages of information about Bitcoin and Cryptocurrency.
 
 * [Blockchain Basics](https://consensys.net/academy/blockchain-basics-book/) - This guide is about what is blockchain technology, how it works, and how it could affect the world around us.
 
@@ -65,33 +67,13 @@
 
 * [Glossary](https://blockspot.io/crypto-dictionary/) - Glossary of terms commonly used in the world of blockchain and cryptocurrency.
 
+* [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) - Introduction to blockchain technology by a real world analogy.
 
-# Technical Analysis (TA)
-## Getting Started With TA
-
-* [Babypips](https://www.babypips.com/) - Babypips has an online course (School of Pipsology) that helps beginners to learn how to trade, use chart indicators, spot chart patterns and more.
+# Cryptocurrency Trading
 
 * [Beginner's Guide to Crypto Trading](https://academy.binance.com/economics/a-complete-guide-to-cryptocurrency-trading-for-beginners) - A Complete Guide to Cryptocurrency Trading for Beginners by Binance Academy.
-
-* [ChartSchool by StockCharts](https://school.stockcharts.com/doku.php) - ChartSchool is the educational section of StockCharts which offers series of articles that introduce you to the concepts, strategies and common terminology of technical analysis and other financial analysis methods.
-
-* [Zerodha Varsity](https://zerodha.com/varsity/module/technical-analysis/) - Series of articles to learn the basics of technical analysis.
-
-## Go-to TA Resources
-
-* [Investopedia](https://www.investopedia.com/) - Investopedia has a comprehensive financial terms dictionary which includes defination for most terms in trading, including cryptocurrency. Investopedia also has an [academy](https://academy.investopedia.com/) where you can learn technical analysis, chart reading skills and other TA related stuff.
-
-* [ThePatternSite](http://thepatternsite.com/) - Website is based on the researches of Thomas N. Bulkowski, the author of several in-depth studies of chart patterns. His website has more than 800 pages of investment information, including a daily blog.
-
-* [Udemy's TA Courses](https://www.udemy.com/courses/search/?q=technical%20analysis) - Udemy is an online learning and teaching marketplace with many courses, including courses on technical analysis.
-
-# Fundamental Analysis (FA)
-
- * [Basics of Fundamental Analysis](https://academy.binance.com/economics/what-is-fundamental-analysis-fa) - What is Fundamental Analysis?
- * [Binance Research](https://research.binance.com/) - Research reports by Binance, covering the topics in the digital asset industry such as blockchain, economics, and finance.
- * [Crypto Research Report](https://cryptoresearch.report/) - Crypto Reserach Report has a quarterly report which goes through interviews, statistical analysis, fundamental analysis, and the future outlook for the market.
- * [Fundamental Analysis of Projects. Guide 1](https://yellowblock.io/how-to-research-altcoins/) - Guide to Fundamental Analysis of blockchain projects. [Guide 2](https://blog.tokenmetrics.com/crypto-fundamental-analysis-guide-48896e83a8b9/).
- * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3). 
+* [Bitcoin Trading for Beginners](https://www.youtube.com/watch?v=c7VH96My_3I) - Youtube video guide on how to trade Bitcoin for beginners
+* [The Total Beginner’s Guide](https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/) - The Total Beginner’s Guide to Cryptocurrency Trading
 
 # Trading Platforms
 
@@ -129,7 +111,32 @@ Play with trading simulators where you can engage with the market and practice y
  * [Altcoinfantasy](https://www.altcoinfantasy.com/)
  * [Bitcoinflip](https://bitcoinflip.app/)
  * [Cryptoparrot](https://cryptoparrot.com/)
- 
+
+# Fundamental Analysis (FA)
+
+ * [Basics of Fundamental Analysis](https://academy.binance.com/economics/what-is-fundamental-analysis-fa) - What is Fundamental Analysis?
+ * [Binance Research](https://research.binance.com/) - Research reports by Binance, covering the topics in the digital asset industry such as blockchain, economics, and finance.
+ * [Crypto Research Report](https://cryptoresearch.report/) - Crypto Reserach Report has a quarterly report which goes through interviews, statistical analysis, fundamental analysis, and the future outlook for the market.
+ * [Fundamental Analysis of Projects. Guide 1](https://yellowblock.io/how-to-research-altcoins/) - Guide to Fundamental Analysis of blockchain projects. [Guide 2](https://blog.tokenmetrics.com/crypto-fundamental-analysis-guide-48896e83a8b9/).
+ * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3). 
+
+# Technical Analysis (TA)
+## Getting Started With TA
+
+* [Babypips](https://www.babypips.com/) - Babypips has an online course (School of Pipsology) that helps beginners to learn how to trade, use chart indicators, spot chart patterns and more.
+
+* [ChartSchool by StockCharts](https://school.stockcharts.com/doku.php) - ChartSchool is the educational section of StockCharts which offers series of articles that introduce you to the concepts, strategies and common terminology of technical analysis and other financial analysis methods.
+
+* [Zerodha Varsity](https://zerodha.com/varsity/module/technical-analysis/) - Series of articles to learn the basics of technical analysis.
+
+## Go-to TA Resources
+
+* [Investopedia](https://www.investopedia.com/) - Investopedia has a comprehensive financial terms dictionary which includes defination for most terms in trading, including cryptocurrency. Investopedia also has an [academy](https://academy.investopedia.com/) where you can learn technical analysis, chart reading skills and other TA related stuff.
+
+* [ThePatternSite](http://thepatternsite.com/) - Website is based on the researches of Thomas N. Bulkowski, the author of several in-depth studies of chart patterns. His website has more than 800 pages of investment information, including a daily blog.
+
+* [Udemy's TA Courses](https://www.udemy.com/courses/search/?q=technical%20analysis) - Udemy is an online learning and teaching marketplace with many courses, including courses on technical analysis.
+
 # Trackers
 ## Market Trackers
  * [Coinmarketcap](https://coinmarketcap.com/) - CoinMarketCap provides information about all digital currencies that are traded in at least one public exchange.
@@ -170,8 +177,6 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Automate Your Trading
 
-Using the following tools, you can automate your trading by building bots on web-based dashboards - no programming skills required.
-
  * [3Commas](https://3commas.io/) - Ready-to-use bots; Copy trading platform; Trailing stop-loss/take-profit orders.
  * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to automate TA strategy. There's also a marketplace where you can copy other users' strategies.
  * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools to automate TA strategy at a cost which does seem more like an enterprise solution.
@@ -181,7 +186,7 @@ Using the following tools, you can automate your trading by building bots on web
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
- * [Trade aggregator](https://aggr.trade) - Huge trades aggregator.
+ * [Trade aggregator](https://aggr.trade) - Significant trades aggregator.
  * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
 
 # Coding Your Own Bots 
