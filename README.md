@@ -232,8 +232,8 @@ Play with trading simulators where you can engage with the market and practice y
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
  * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
 ### Datasets
- * [Bitcoin Trades Data](http://api.bitcoincharts.com/v1/csv/) - Bitcoin trades history data from Bitcoincharts in CSV format.
- * [Bitcoinity Data](http://data.bitcoinity.org/) - You can export markets and blockchain data in csv/xlsx file formats.
+ * [Bitcoin Trades Data](http://api.bitcoincharts.com/v1/csv/) - Bitcoin trades history data from Bitcoincharts in csv format.
+ * [Bitcoinity Data](http://data.bitcoinity.org/) - You can export markets and blockchain data in csv and xlsx file formats.
 
 ## Other Projects
  * [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) - Some quantitative trading strategies.
