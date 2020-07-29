@@ -1,10 +1,14 @@
 # Awesome Crypto Trading
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<p align="center"><img src="./logo.png"></p>
 
-**An awesome curated list of resources, software and tools for crypto traders**
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg"/></a>
+  <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img alt="License: CC0-1.0" src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg"/></a>
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
+</p>
 
-Your contributions are always welcome!
+:sparkles:**An awesome curated list of resources, software and tools for crypto traders**:sparkles:
 
 # Contents
 
@@ -229,3 +233,12 @@ Using the following tools, you can automate your trading by building bots on web
  * [Reddit](https://www.reddit.com/) - One of the hottest place for the crypto community is Reddit. The most popular crypto sub-reddits are [Cryptocurrency](http://www.reddit.com/r/CryptoCurrency/) and [Bitcoin](http://www.reddit.com/r/Bitcoin/).
  * [Telegram](https://telegram.org/) - Popular messaging app among crypto enthusiasts. Many crypto companies and publications have their own groups and channels there. 
  * [Twitter](https://twitter.com/) - Twitter is a popular social media for crypto traders and prominent members of the crypto community. Plus, companies post announcements and crypto publications there.
+
+
+# Contributing
+
+Your contributions are always welcome! Please read the [Contribution Guidelines](https://github.com/SpiralDevelopment/Awesome-Crypto-Trading/blob/master/CONTRIBUTING.md) before contributing.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
