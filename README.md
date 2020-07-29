@@ -8,6 +8,8 @@
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
 </p>
 
+# About 
+
 :sparkles:**An awesome curated list of resources, software and tools for crypto traders**:sparkles:
 
 # Contents
