@@ -49,7 +49,9 @@
     - [Arbitrage](#arbitrage)  
   * [Backtesters](#backtesters)    
   * [API and Datasets](#api-and-datasets)
-  * [Others](#others)
+     - [API](#api)
+     - [Datasets](#datasets)
+  * [Other Projects](#others-projects)
 
 - [Crypto Communities](#crypto-communities)
 
@@ -71,9 +73,9 @@
 
 # Cryptocurrency Trading
 
-* [Beginner's Guide to Crypto Trading](https://academy.binance.com/economics/a-complete-guide-to-cryptocurrency-trading-for-beginners) - A Complete Guide to Cryptocurrency Trading for Beginners by Binance Academy.
+* [Beginner's Guide to Crypto Trading](https://academy.binance.com/economics/a-complete-guide-to-cryptocurrency-trading-for-beginners) - A complete guide to cryptocurrency trading for beginners by Binance academy.
 * [Bitcoin Trading for Beginners](https://www.youtube.com/watch?v=c7VH96My_3I) - Youtube video guide on how to trade Bitcoin for beginners
-* [The Total Beginner’s Guide](https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/) - The Total Beginner’s Guide to Cryptocurrency Trading
+* [The Total Beginner’s Guide](https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/) - The total beginner’s guide to cryptocurrency trading
 
 # Trading Platforms
 
@@ -96,13 +98,13 @@
 * [Okex (Futures)](https://www.okex.com/)
 
 ## OTC Trading
- * [OTC Trading Desks](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc) - Bitcoin / Crypto OTC Trading Desks
+ * [OTC Trading Desks](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc) - Bitcoin / Crypto OTC trading desks
  
 ## Charting and Trading Platforms
 
- * [Coinigy](https://www.coinigy.com/) - Charting and trading platform. It lists more cryptocurrency exchanges in comparison with Tradingview. But, it does not allow for the sharing of trading ideas within its system.
+ * [Coinigy](https://www.coinigy.com/) - Charting and trading platform listing more cryptocurrency exchanges in comparison with others mentioned here. But, it does not allow for the sharing of trading ideas within its system.
  * [Cryptowat.ch](https://cryptowat.ch/) - Charting and trading platform owned by Kraken and is exclusively designed for bitcoin and altcoin traders.
- * [Tradingview](https://www.tradingview.com/) - Charting and trading platform. Tradingview is also a social network with traders sharing trading ideas.   
+ * [Tradingview](https://www.tradingview.com/) - Biggest charting and trading platform and social network with traders sharing trading ideas.
 
 ## Trading Simulators
 
@@ -114,10 +116,10 @@ Play with trading simulators where you can engage with the market and practice y
 
 # Fundamental Analysis (FA)
 
- * [Basics of Fundamental Analysis](https://academy.binance.com/economics/what-is-fundamental-analysis-fa) - What is Fundamental Analysis?
+ * [Basics of Fundamental Analysis](https://academy.binance.com/economics/what-is-fundamental-analysis-fa) - What is fundamental analysis?
  * [Binance Research](https://research.binance.com/) - Research reports by Binance, covering the topics in the digital asset industry such as blockchain, economics, and finance.
  * [Crypto Research Report](https://cryptoresearch.report/) - Crypto Reserach Report has a quarterly report which goes through interviews, statistical analysis, fundamental analysis, and the future outlook for the market.
- * [Fundamental Analysis of Projects. Guide 1](https://yellowblock.io/how-to-research-altcoins/) - Guide to Fundamental Analysis of blockchain projects. [Guide 2](https://blog.tokenmetrics.com/crypto-fundamental-analysis-guide-48896e83a8b9/).
+ * [Fundamental Analysis of Projects. Guide 1](https://yellowblock.io/how-to-research-altcoins/) - Guide to fundamental analysis of blockchain projects. [Guide 2](https://blog.tokenmetrics.com/crypto-fundamental-analysis-guide-48896e83a8b9/).
  * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3). 
 
 # Technical Analysis (TA)
@@ -223,12 +225,17 @@ Play with trading simulators where you can engage with the market and practice y
  * [Zipline](https://github.com/quantopian/zipline) - Zipline is the underlying software for the Quantopian's backtesting engine. 
    
 ## API and Datasets
+
+### API
  * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges.
  * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
  * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
+### Datasets
+ * [Bitcoin Trades Data](http://api.bitcoincharts.com/v1/csv/) - Bitcoin trades history data from Bitcoincharts in CSV format.
+ * [Bitcoinity Data](http://data.bitcoinity.org/) - You can export markets and blockchain data in csv/xlsx file formats.
 
-## Others
+## Other Projects
  * [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) - Some quantitative trading strategies.
  * [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading/blob/master/README.md) - List of resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
  * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning. 
