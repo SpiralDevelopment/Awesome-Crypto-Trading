@@ -200,6 +200,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Freqtrade](https://github.com/freqtrade/freqtrade) - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
  * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
  * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. 
+ * [Kelp](https://github.com/stellar/kelp) - Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX.
  * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.   
 
 ### Market Making Bots 
@@ -227,7 +228,7 @@ Play with trading simulators where you can engage with the market and practice y
 ## API and Datasets
 
 ### API
- * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges.
+ * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
  * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
  * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
@@ -237,7 +238,7 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Other Projects
  * [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) - Some quantitative trading strategies.
- * [Awesome Deep Trading](https://github.com/cbailes/awesome-deep-trading/blob/master/README.md) - List of resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
+ * [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of libraries, packages and resources for Quants.
  * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning. 
  * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency TA.
  * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results. 
