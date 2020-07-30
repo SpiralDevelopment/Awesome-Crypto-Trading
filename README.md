@@ -8,7 +8,7 @@
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
 </p>
 
-# About 
+# About
 
 **An awesome curated list of resources, software and tools for crypto traders**:sparkles:
 
@@ -23,31 +23,31 @@
     - [Spot Exchanges](#spot-exchanges)
     - [Derivative Exchanges](#derivative-exchanges)
   * [OTC Trading](#otc-trading)
-  * [Charting and Trading Platforms](#charting-and-trading-platforms)  
+  * [Charting and Trading Platforms](#charting-and-trading-platforms)
   * [Trading Simulators](#trading-simulators)
 
 - [Fundamental Analysis (FA)](#fundamental-analysis-fa)
 
 - [Technical Analysis (TA)](#technical-analysis-ta)
   * [Getting Started With TA](#getting-started-with-ta)
-  * [Go-to TA Resources](#go-to-ta-resources)  
+  * [Go-to TA Resources](#go-to-ta-resources)
 
 - [Trackers](#trackers)
   * [Market Trackers](#market-trackers)
-  * [Portfolio and Tax Trackers](#portfolio-and-tax-trackers)      
+  * [Portfolio and Tax Trackers](#portfolio-and-tax-trackers)
 
 - [Trading tools](#trading-tools)
   * [Events and News Aggregators](#events-and-news-aggregators)
-  * [Market Screeners](#market-screeners)  
-  * [Data Analytics Platforms](#data-analytics-platforms)   
-  * [Automate Your Trading](#automate-your-trading)   
+  * [Market Screeners](#market-screeners)
+  * [Data Analytics Platforms](#data-analytics-platforms)
+  * [Automate Your Trading](#automate-your-trading)
   * [Other Trading Tools](#other-trading-tools)
 
 - [Coding Your Own Bots](#coding-your-own-bots)
   * [Trading Bots and Bot Frameworks](#trading-bots-and-bot-frameworks)
     - [Market Making Bots](#market-making-bots)
-    - [Arbitrage](#arbitrage)  
-  * [Backtesters](#backtesters)    
+    - [Arbitrage](#arbitrage)
+  * [Backtesters](#backtesters)
   * [API and Datasets](#api-and-datasets)
      - [API](#api)
      - [Datasets](#datasets)
@@ -85,7 +85,9 @@
 * [Bitfinex](https://www.bitfinex.com/)
 * [Bithumb](https://www.bithumb.com/)
 * [Bitstamp](https://www.bitstamp.net/)
+* [Bittrex](https://bittrex.com/)
 * [Coinbase Pro](https://pro.coinbase.com/)
+* [Gemini](https://gemini.com/)
 * [Huobi Global](https://www.huobi.com/en-us/)
 * [Kraken](https://www.kraken.com/)
 
@@ -97,9 +99,14 @@
 * [Huobi (Futures)](https://www.huobi.com/)
 * [Okex (Futures)](https://www.okex.com/)
 
+### Decentralized Exchanges
+* [AirSwap](https://www.airswap.io/)
+* [AtomicDEX](https://atomicdex.io/)
+* [Kyberswap](https://kyberswap.com/swap)
+
 ## OTC Trading
  * [OTC Trading Desks](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc) - Bitcoin / Crypto OTC trading desks
- 
+
 ## Charting and Trading Platforms
 
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform listing more cryptocurrency exchanges in comparison with others mentioned here. But, it does not allow for the sharing of trading ideas within its system.
@@ -120,7 +127,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Binance Research](https://research.binance.com/) - Research reports by Binance, covering the topics in the digital asset industry such as blockchain, economics, and finance.
  * [Crypto Research Report](https://cryptoresearch.report/) - Crypto Reserach Report has a quarterly report which goes through interviews, statistical analysis, fundamental analysis, and the future outlook for the market.
  * [Fundamental Analysis of Projects. Guide 1](https://yellowblock.io/how-to-research-altcoins/) - Guide to fundamental analysis of blockchain projects. [Guide 2](https://blog.tokenmetrics.com/crypto-fundamental-analysis-guide-48896e83a8b9/).
- * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3). 
+ * [On-chain Fundamental Analysis. Part 1](https://medium.com/hackernoon/cryptoasset-fundamental-analysis-7-indicators-ratios-to-watch-e905da4b6c5) - Article on using network metrics to assess the primary value of the cryptoassets. [Part 2](https://hackernoon.com/crypto-fundamental-analysis-part-ii-ix7fe31e3).
 
 # Technical Analysis (TA)
 ## Getting Started With TA
@@ -144,19 +151,25 @@ Play with trading simulators where you can engage with the market and practice y
  * [Coinmarketcap](https://coinmarketcap.com/) - CoinMarketCap provides information about all digital currencies that are traded in at least one public exchange.
  * [Coingecko](https://www.coingecko.com/en) - Like CMC, CoinGecko is a platform for tracking cryptocurrencies and blockchain assets.
  * [Coin360](https://coin360.com/) - Heatmap of cryptocurrency prices, market capitalizations, and volumes.
- 
+ * [Crypto Compare](https://www.cryptocompare.com/) - Like CMC, Crypto Compare is a platform for tracking cryptocurrencies and blockchain assets.
+ * [Crypto Hedgehog](https://cryptohedgehog.io/) - Crypto Hedgehog aggregates data from CoinMarketCap, Coin Gecko, Crypto Compare, Messari, Santiment, etc. Research includes market data, overviews, teams, partners, ICO information, feeds, and more.
+ * [Messari](https://messari.io/) - Messari provides reliable data and market intelligence for crypto investors and professionals.
+
+
+
 ## Portfolio and Tax Trackers
 
  * [BlockFolio](https://blockfolio.com/) - Mobile cryptocurrency portfolio tracker app.
  * [CoinTracking](https://cointracking.info/) - CoinTracking is a portfolio tracking platform with tax report generation tool.
+ * [Crypto Hedgehog](https://cryptohedgehog.io/) - Crypto Hedgehog is a portfolio management platform where you can track your balances, build asset classes, set strategies, and trade through any connected exchange.
  * [TokenTax](https://tokentax.co/) - Token Tax is a tax-focused software which calculates your crypto taxes in addition to your full income.
 
 # Trading Tools
-## Events and News Aggregators 
+## Events and News Aggregators
  * [Coindar](https://coindar.org/) - Events calendar with ability to view major events happening soon at a glance.
- * [Coindesk](https://www.coindesk.com/) - News site specializing in cryptocurrencies and digital assets. 
+ * [Coindesk](https://www.coindesk.com/) - News site specializing in cryptocurrencies and digital assets.
  * [Coinmarketcal](https://coinmarketcal.com/en/) - Events calendar that shows you upcoming events on different projects.
- * [Cointelegraph](https://cointelegraph.com/) - News site covering news on blockchain technology, crypto assets, and fintech. 
+ * [Cointelegraph](https://cointelegraph.com/) - News site covering news on blockchain technology, crypto assets, and fintech.
  * [Cryptopanic](https://cryptopanic.com/) - News aggregator.
  * [Cryptocontrol News HeatMap](https://cryptocontrol.io/en/heatmap) - News heatmap lets you view headlines in a different way - the bigger the title, the more important the article.
  * [Faws](https://faws.com/) - Another News aggregator.
@@ -164,12 +177,12 @@ Play with trading simulators where you can engage with the market and practice y
 ## Market Screeners
 
  * [Crypto Screener by Wallmine](https://wallmine.com/cryptocurrency-screener?d=d&o=m) - Cryptocurrency Screener that offers several metrics and filters.
- * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics. 
+ * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics.
 
 ## Data Analytics Platforms
  * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
  * [Blockchain Charts](https://www.blockchain.com/charts) - Charts on currency statistics, block details, mining information, network activity, wallet activity and market signals.
- * [Coinmetrics](https://coinmetrics.io/) - Coin Metrics provides crypto asset market and network data. 
+ * [Coinmetrics](https://coinmetrics.io/) - Coin Metrics provides crypto asset market and network data.
  * [Datalight](http://datalight.me/) - Blockchain activity, social media and market data analytics tool.
  * [Glassnode](https://studio.glassnode.com/) - On-Chain Market Indicators. Glassnode also has an [academy](https://academy.glassnode.com/) to learn about diffferent on-chain metrics.
  * [Omenics](https://omenics.com/) - Market sentiment and crypto coins tracker.
@@ -182,34 +195,34 @@ Play with trading simulators where you can engage with the market and practice y
  * [3Commas](https://3commas.io/) - Ready-to-use bots; Copy trading platform; Trailing stop-loss/take-profit orders.
  * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to automate TA strategy. There's also a marketplace where you can copy other users' strategies.
  * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools to automate TA strategy at a cost which does seem more like an enterprise solution.
- * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.  
+ * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.
 
-## Other Trading Tools 
+## Other Trading Tools
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
- * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
+ * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex.
  * [Trade aggregator](https://aggr.trade) - Significant trades aggregator.
  * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
 
-# Coding Your Own Bots 
+# Coding Your Own Bots
 
 ## Trading Bots and Bot Frameworks
  * [Bowhead](https://github.com/joeldg/bowhead) - A REST-API and console-based cryptocurrency trading bot framework written in PHP.
- * [Bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java. 
+ * [Bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java.
  * [Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in Javascript.
  * [Freqtrade](https://github.com/freqtrade/freqtrade) - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
  * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
- * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. 
+ * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang.
  * [Kelp](https://github.com/stellar/kelp) - Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX.
- * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.   
+ * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
-### Market Making Bots 
+### Market Making Bots
  * [DexBot](https://github.com/Codaone/DEXBot) - A Trading Bot provided with two very flexible market-making strategies.
  * [HummingBot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making.
  * [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in Node.js, Angular, Typescript and C++.
  * [Market Maker Keeper](https://github.com/makerdao/market-maker-keeper) - Maker keeper framework.
  * [Sample Market Maker](https://github.com/BitMEX/sample-market-maker) - Sample BitMEX market-making bot.
- * [Tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market-making cryptocurrency trading platform in Node.js.  
+ * [Tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market-making cryptocurrency trading platform in Node.js.
 
 ### Arbitrage
  * [Bitcoin Arbitrage](https://github.com/maxme/bitcoin-arbitrage) - Bitcoin arbitrage opportunity detector.
@@ -220,11 +233,11 @@ Play with trading simulators where you can engage with the market and practice y
 ## Backtesters
  * [Backtrader](https://github.com/mementum/backtrader) - Python backtesting library for trading strategies.
  * [Catalyst](https://github.com/enigmampc/catalyst) - Python library to backtest trading strategies.
- * [Lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for strategy research, backtesting and live trading. 
+ * [Lean](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for strategy research, backtesting and live trading.
  * [Quantconnect](https://www.quantconnect.com/) - Code, backtest, and deploy automated trading strategies.
  * [Quantopian](https://www.quantopian.com/home) - Platform for developing and backtesting trading algorithms with Python.
- * [Zipline](https://github.com/quantopian/zipline) - Zipline is the underlying software for the Quantopian's backtesting engine. 
-   
+ * [Zipline](https://github.com/quantopian/zipline) - Zipline is the underlying software for the Quantopian's backtesting engine.
+
 ## API and Datasets
 
 ### API
@@ -239,14 +252,14 @@ Play with trading simulators where you can engage with the market and practice y
 ## Other Projects
  * [Algo Trading Strategies](https://github.com/je-suis-tm/quant-trading) - Some quantitative trading strategies.
  * [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of libraries, packages and resources for Quants.
- * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning. 
+ * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning.
  * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency TA.
- * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results. 
+ * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results.
 
 # Crypto Communities
  * [BitcoinTalk](https://bitcointalk.org/) - Forum zone which coordinates almost everything that happens around the crypto world.
  * [Reddit](https://www.reddit.com/) - One of the hottest place for the crypto community is Reddit. The most popular crypto sub-reddits are [Cryptocurrency](http://www.reddit.com/r/CryptoCurrency/) and [Bitcoin](http://www.reddit.com/r/Bitcoin/).
- * [Telegram](https://telegram.org/) - Popular messaging app among crypto enthusiasts. Many crypto companies and publications have their own groups and channels there. 
+ * [Telegram](https://telegram.org/) - Popular messaging app among crypto enthusiasts. Many crypto companies and publications have their own groups and channels there.
  * [Twitter](https://twitter.com/) - Twitter is a popular social media for crypto traders and prominent members of the crypto community. Plus, companies post announcements and crypto publications there.
 
 
