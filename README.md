@@ -186,6 +186,7 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Other Trading Tools 
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
+ * [BTCBench Fee Calculator](https://www.btcbench.com/calculator.html) - Estimate Bitcoin transaction costs, benchmark them against real‑time network data, and uncover over-payment on your wallet’s fee estimates.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
  * [Trade aggregator](https://aggr.trade) - Significant trades aggregator.
