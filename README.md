@@ -128,11 +128,13 @@ Play with trading simulators where you can engage with the market and practice y
 * [Babypips](https://www.babypips.com/) - Babypips has an online course (School of Pipsology) that helps beginners to learn how to trade, use chart indicators, spot chart patterns and more.
 
 * [ChartSchool by StockCharts](https://school.stockcharts.com/doku.php) - ChartSchool is the educational section of StockCharts which offers series of articles that introduce you to the concepts, strategies and common terminology of technical analysis and other financial analysis methods.
+  
+* [Chartscout Trading Education](https://chartscout.io/trading-education) - Educational resources on technical analysis.
 
 * [Zerodha Varsity](https://zerodha.com/varsity/module/technical-analysis/) - Series of articles to learn the basics of technical analysis.
 
 * [Udemy's TA Courses](https://www.udemy.com/courses/search/?q=technical%20analysis) - Udemy is an online learning and teaching marketplace with many courses, including courses on technical analysis.
-
+  
 ## Go-to TA Resources
 
 * [Investopedia](https://www.investopedia.com/) - Investopedia has a comprehensive financial terms dictionary which includes defination for most terms in trading, including cryptocurrency. Investopedia also has an [academy](https://academy.investopedia.com/) where you can learn technical analysis, chart reading skills and other TA related stuff.
@@ -164,7 +166,9 @@ Play with trading simulators where you can engage with the market and practice y
 ## Market Screeners
 
  * [Crypto Screener by Wallmine](https://wallmine.com/cryptocurrency-screener?d=d&o=m) - Cryptocurrency Screener that offers several metrics and filters.
- * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics. 
+ * [Chartscout](https://chartscout.io) - A tool for analyzing chart patterns for crypto trading.
+ * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics.
+ 
 
 ## Data Analytics Platforms
  * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
