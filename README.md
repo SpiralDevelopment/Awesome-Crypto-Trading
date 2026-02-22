@@ -164,7 +164,8 @@ Play with trading simulators where you can engage with the market and practice y
 ## Market Screeners
 
  * [Crypto Screener by Wallmine](https://wallmine.com/cryptocurrency-screener?d=d&o=m) - Cryptocurrency Screener that offers several metrics and filters.
- * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics. 
+ * [LyTrade Scanner](https://github.com/lydianai/borsa.ailydian.com) - Open-source, self-hosted crypto trading signal platform. Scans all 617 Binance USDT Perpetual Futures markets in real-time with 13+ strategies. No API key required.
+ * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics.
 
 ## Data Analytics Platforms
  * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
@@ -201,7 +202,8 @@ Play with trading simulators where you can engage with the market and practice y
  * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
  * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. 
  * [Kelp](https://github.com/stellar/kelp) - Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX.
- * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.   
+ * [LyTrade Scanner](https://github.com/lydianai/borsa.ailydian.com) - Open-source crypto signal scanner monitoring 617 Binance Futures markets with 13+ strategies. Built with Next.js and TypeScript.
+ * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 
 ### Market Making Bots 
  * [DexBot](https://github.com/Codaone/DEXBot) - A Trading Bot provided with two very flexible market-making strategies.
