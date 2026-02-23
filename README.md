@@ -190,6 +190,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
  * [Trade aggregator](https://aggr.trade) - Significant trades aggregator.
  * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
+ * [UltraTrader](https://ultratrader.app/) – Automated trading journal that syncs trades from brokers and exchanges (Binance, Bybit, MT4/MT5, and more), offering analytics on win rate, risk/reward, and strategy performance across Stocks, Forex, and Crypto.
 
 # Coding Your Own Bots 
 
