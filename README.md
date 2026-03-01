@@ -232,6 +232,8 @@ Play with trading simulators where you can engage with the market and practice y
  * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
  * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
+ * [Free Crypto Price API](https://crypto-price-landing.vercel.app) - Real-time prices for 275+ crypto assets sourced from Hyperliquid. No authentication, no rate limits, free forever.
+ * [Hyperliquid Futures API](https://agent-gateway-kappa.vercel.app) - Unified REST API for perpetual futures trading on Hyperliquid — 275+ markets, OHLCV, funding rates, order execution.
 ### Datasets
  * [Bitcoin Trades Data](http://api.bitcoincharts.com/v1/csv/) - Bitcoin trades history data from Bitcoincharts in csv format.
  * [Bitcoinity Data](http://data.bitcoinity.org/) - You can export markets and blockchain data in csv and xlsx file formats.
