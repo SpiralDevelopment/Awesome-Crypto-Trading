@@ -22,6 +22,7 @@
   * [Crypto Exchanges](#crypto-exchanges)
     - [Spot Exchanges](#spot-exchanges)
     - [Derivative Exchanges](#derivative-exchanges)
+    - [Instant Exchanges](#instant-exchanges)
   * [OTC Trading](#otc-trading)
   * [Charting and Trading Platforms](#charting-and-trading-platforms)  
   * [Trading Simulators](#trading-simulators)
@@ -96,6 +97,9 @@
 * [FTX](https://ftx.com/)
 * [Huobi (Futures)](https://www.huobi.com/)
 * [Okex (Futures)](https://www.okex.com/)
+
+### Instant Exchanges
+* [BitcoinVN](https://bitcoinvn.io/) - Vietnam's longest-running cryptocurrency exchange (since 2014). Non-custodial instant exchange with Lightning Network support.
 
 ## OTC Trading
  * [OTC Trading Desks](https://medium.com/@cointastical/bitcoin-crypto-otc-trading-desks-7f77276c6dc) - Bitcoin / Crypto OTC trading desks
