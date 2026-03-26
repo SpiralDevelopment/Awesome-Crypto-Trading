@@ -230,7 +230,9 @@ Play with trading simulators where you can engage with the market and practice y
 ### API
  * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
  * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
+ * [CoinPaprika](https://api.coinpaprika.com) - Free crypto market data API. 12,000+ coins, 350+ exchanges, tickers, OHLCV, historical prices. No API key for free tier.
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
+ * [DexPaprika](https://api.dexpaprika.com) - Free DEX data API across 34 blockchains. 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
  * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
 ### Datasets
  * [Bitcoin Trades Data](http://api.bitcoincharts.com/v1/csv/) - Bitcoin trades history data from Bitcoincharts in csv format.
