@@ -173,6 +173,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Datalight](http://datalight.me/) - Blockchain activity, social media and market data analytics tool.
  * [Glassnode](https://studio.glassnode.com/) - On-Chain Market Indicators. Glassnode also has an [academy](https://academy.glassnode.com/) to learn about diffferent on-chain metrics.
  * [Omenics](https://omenics.com/) - Market sentiment and crypto coins tracker.
+ * [OnChainRisk](https://onchainrisk.io) - Blockchain analytics platform for wallet risk scoring, fund tracing and scam detection.
  * [Skew](https://skew.com/) - Real-time data analytics for Bitcoin and Ether derivatives: Options, Futures and Perpetual Swaps.
  * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
  * [Woobull Charts](http://charts.woobull.com/) - Various price models for Bitcoin.
