@@ -174,6 +174,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Glassnode](https://studio.glassnode.com/) - On-Chain Market Indicators. Glassnode also has an [academy](https://academy.glassnode.com/) to learn about diffferent on-chain metrics.
  * [Omenics](https://omenics.com/) - Market sentiment and crypto coins tracker.
  * [Skew](https://skew.com/) - Real-time data analytics for Bitcoin and Ether derivatives: Options, Futures and Perpetual Swaps.
+ * [SwarmIntellect](https://swarmintellect.com) - Whale consensus signals and divergence data with verified accuracy across 166 tracked wallets. Free API available.
  * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
  * [Woobull Charts](http://charts.woobull.com/) - Various price models for Bitcoin.
 
@@ -231,6 +232,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
  * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
+ * [SwarmIntellect API](https://swarmintellect.com/developers) - Real-time whale consensus signals, divergence scores, and accuracy-verified pattern detection. Free tier included.  
  * [CryptoCompare](https://min-api.cryptocompare.com/documentation) - CryptoCompare includes a variety of data from market, trade, blockchain, and social sources.
 ### Datasets
  * [Bitcoin Trades Data](http://api.bitcoincharts.com/v1/csv/) - Bitcoin trades history data from Bitcoincharts in csv format.
