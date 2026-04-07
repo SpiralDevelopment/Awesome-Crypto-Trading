@@ -176,6 +176,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Skew](https://skew.com/) - Real-time data analytics for Bitcoin and Ether derivatives: Options, Futures and Perpetual Swaps.
  * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
  * [Woobull Charts](http://charts.woobull.com/) - Various price models for Bitcoin.
+ * [Bitcoin Bottom Score](https://bitcoinbottom.app) - Free Bitcoin market cycle bottom probability tracker aggregating 25 on-chain signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, Fear & Greed, etc.) into a daily score.
 
 ## Automate Your Trading
 
