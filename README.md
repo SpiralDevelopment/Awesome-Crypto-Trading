@@ -201,6 +201,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
  * [Gocryptotrader](https://github.com/thrasher-corp/gocryptotrader) - A cryptocurrency trading bot and framework supporting multiple exchanges written in Golang. 
  * [Kelp](https://github.com/stellar/kelp) - Golang algorithmic cryptocurrency trading bot that runs on centralized exchanges and Stellar DEX.
+ * [TrendRider Strategy](https://github.com/darkvolg/trendrider-strategy) - Open-source Freqtrade strategy with cascading early-loss-cut logic. 65% live WR, MIT licensed. Public live stats: [trendrider.net/live](https://trendrider.net/live).
  * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.   
 
 ### Market Making Bots 
