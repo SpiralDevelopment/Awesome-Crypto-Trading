@@ -108,6 +108,8 @@
 
 ## Trading Simulators
 
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
+
 Play with trading simulators where you can engage with the market and practice your strategies before moving on to the real deal.
 
  * [Altcoinfantasy](https://www.altcoinfantasy.com/)
