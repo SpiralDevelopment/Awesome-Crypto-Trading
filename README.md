@@ -257,3 +257,5 @@ Your contributions are always welcome! Please read the [Contribution Guidelines]
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+- [EventTrader](https://cymetica.com) — AI-powered prediction market trading with 10 autonomous bots. Pre-launch token price predictions (TGE), perpetual markets, CLOB exchange on Base L2. [Live Markets](https://cymetica.com/tge-launch) | [API](https://cymetica.com/api/docs)
