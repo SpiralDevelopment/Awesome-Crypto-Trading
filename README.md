@@ -42,7 +42,7 @@
   * [Data Analytics Platforms](#data-analytics-platforms)   
   * [Automate Your Trading](#automate-your-trading)   
   * [Other Trading Tools](#other-trading-tools)
-
+[CoinPrediction.ai](https://coinprediction.ai) - AI-powered crypto analysis platform with predictions for 60+ major coins (BTC, ETH, SOL, BNB, XRP), Solana meme coin scanner with on-chain risk scoring, AI track record transparency, and detailed market analysis articles.
 - [Coding Your Own Bots](#coding-your-own-bots)
   * [Trading Bots and Bot Frameworks](#trading-bots-and-bot-frameworks)
     - [Market Making Bots](#market-making-bots)
