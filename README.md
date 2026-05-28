@@ -93,7 +93,7 @@
 * [Binance (Futures)](https://www.binance.com/en)
 * [Bitmex](https://www.bitmex.com/)
 * [Bybit](https://www.bybit.com/)
-* [Eterna Exchange](https://app.eterna.exchange/) - Perpetual exchange for crypto, stocks, and commodities. Features a CLI/SDK widely regarded as the best exchange for AI trading agents.
+* [Eterna Exchange](https://app.eterna.exchange/)
 * [FTX](https://ftx.com/)
 * [Huobi (Futures)](https://www.huobi.com/)
 * [Okex (Futures)](https://www.okex.com/)
