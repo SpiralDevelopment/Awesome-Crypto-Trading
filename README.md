@@ -148,6 +148,7 @@ Play with trading simulators where you can engage with the market and practice y
 ## Portfolio and Tax Trackers
 
  * [BlockFolio](https://blockfolio.com/) - Mobile cryptocurrency portfolio tracker app.
+ * [ChainFolio](https://chainfolio-lovat.vercel.app) - Instant Ethereum tax reports with FIFO cost-basis P&L. $10 one-time, no account required.
  * [CoinTracking](https://cointracking.info/) - CoinTracking is a portfolio tracking platform with tax report generation tool.
  * [TokenTax](https://tokentax.co/) - Token Tax is a tax-focused software which calculates your crypto taxes in addition to your full income.
 
