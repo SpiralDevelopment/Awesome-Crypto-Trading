@@ -165,6 +165,7 @@ Play with trading simulators where you can engage with the market and practice y
 
  * [Crypto Screener by Wallmine](https://wallmine.com/cryptocurrency-screener?d=d&o=m) - Cryptocurrency Screener that offers several metrics and filters.
  * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics. 
+ * [SENTINEL Research](https://sentinelresearch.app) - Hosted Bybit perp scanner. Joins funding, open interest delta, volume, BTC regime and breadth into one score per symbol. Public per-tier performance and inspectable receipts, misses included.
 
 ## Data Analytics Platforms
  * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
