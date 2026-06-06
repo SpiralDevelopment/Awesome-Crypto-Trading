@@ -176,6 +176,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Skew](https://skew.com/) - Real-time data analytics for Bitcoin and Ether derivatives: Options, Futures and Perpetual Swaps.
  * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
  * [Woobull Charts](http://charts.woobull.com/) - Various price models for Bitcoin.
+[Athenum](https://athenum.xyz) - Unified crypto and derivatives analytics terminal aggregating order flow, open interest, funding and liquidity across 14 exchanges, with whale-wall market depth and a macro layer.
 
 ## Automate Your Trading
 
