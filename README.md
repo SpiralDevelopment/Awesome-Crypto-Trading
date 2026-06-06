@@ -104,6 +104,7 @@
 
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform listing more cryptocurrency exchanges in comparison with others mentioned here. But, it does not allow for the sharing of trading ideas within its system.
  * [Cryptowat.ch](https://cryptowat.ch/) - Charting and trading platform owned by Kraken and is exclusively designed for bitcoin and altcoin traders.
+ * [Finterm](https://finterm.xyz) - Keyboard-first charting terminal for crypto and stocks with funding rates, liquidations, and heatmaps. Free and browser-based.
  * [Tradingview](https://www.tradingview.com/) - Biggest charting and trading platform and social network with traders sharing trading ideas.
 
 ## Trading Simulators
