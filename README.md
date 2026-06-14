@@ -182,7 +182,8 @@ Play with trading simulators where you can engage with the market and practice y
  * [3Commas](https://3commas.io/) - Ready-to-use bots; Copy trading platform; Trailing stop-loss/take-profit orders.
  * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to automate TA strategy. There's also a marketplace where you can copy other users' strategies.
  * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools to automate TA strategy at a cost which does seem more like an enterprise solution.
- * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.  
+ * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.
+ * [Ezath](https://ezath.com) - Crypto trading signals (BTC/ETH/SOL) with a public SHA-256 hash-chained track record, a free AI position analyzer, trading calculators, and an optional Auto-Trader.
 
 ## Other Trading Tools 
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
