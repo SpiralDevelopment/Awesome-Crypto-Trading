@@ -196,6 +196,7 @@ Play with trading simulators where you can engage with the market and practice y
 ## Trading Bots and Bot Frameworks
  * [Bowhead](https://github.com/joeldg/bowhead) - A REST-API and console-based cryptocurrency trading bot framework written in PHP.
  * [Bxbot](https://github.com/gazbert/bxbot) - A simple Bitcoin trading bot written in Java. 
+ * [CoinPing](https://github.com/SeigeC/coinping-bot) - Multi-condition crypto price alert bot. Price thresholds, 24h % change, cross-exchange spread alerts.
  * [Crypto Trading Bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in Javascript.
  * [Freqtrade](https://github.com/freqtrade/freqtrade) - Crypto trading bot written in Python that features backtesting, plotting and money management tools.
  * [Gekko](https://github.com/askmike/gekko) - Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on Node.js.
