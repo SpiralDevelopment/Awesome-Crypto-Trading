@@ -34,7 +34,8 @@
 
 - [Trackers](#trackers)
   * [Market Trackers](#market-trackers)
-  * [Portfolio and Tax Trackers](#portfolio-and-tax-trackers)      
+  * [Portfolio and Tax Trackers](#portfolio-and-tax-trackers)     
+  
 
 - [Trading tools](#trading-tools)
   * [Events and News Aggregators](#events-and-news-aggregators)
@@ -70,6 +71,8 @@
 * [Glossary](https://blockspot.io/crypto-dictionary/) - Glossary of terms commonly used in the world of blockchain and cryptocurrency.
 
 * [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) - Introduction to blockchain technology by a real world analogy.
+
+* [TokenSonar](https://tokensonar.com/) - Independent tracker scoring 27 crypto assets 0-100 on real institutional adoption: spot-ETF AUM, named bank and asset-manager partnerships, on-chain RWA, and regulatory licenses. Updated twice daily.
 
 # Cryptocurrency Trading
 
