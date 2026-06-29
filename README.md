@@ -228,6 +228,7 @@ Play with trading simulators where you can engage with the market and practice y
 ## API and Datasets
 
 ### API
+ * [Adanos](https://adanos.org/) - Crypto market sentiment API using Reddit, news, and Polymarket signals.
  * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
  * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
