@@ -172,6 +172,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Coinmetrics](https://coinmetrics.io/) - Coin Metrics provides crypto asset market and network data. 
  * [Datalight](http://datalight.me/) - Blockchain activity, social media and market data analytics tool.
  * [Glassnode](https://studio.glassnode.com/) - On-Chain Market Indicators. Glassnode also has an [academy](https://academy.glassnode.com/) to learn about diffferent on-chain metrics.
+ * [Market Posture Daily](https://marketpd.com) - Daily trend, regime and relative-strength data for ~90 crypto assets and US stocks/ETFs, plus a cointegration pair screener. Free terminal and JSON API.
  * [Omenics](https://omenics.com/) - Market sentiment and crypto coins tracker.
  * [Skew](https://skew.com/) - Real-time data analytics for Bitcoin and Ether derivatives: Options, Futures and Perpetual Swaps.
  * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
