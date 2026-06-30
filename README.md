@@ -160,6 +160,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Cryptopanic](https://cryptopanic.com/) - News aggregator.
  * [Cryptocontrol News HeatMap](https://cryptocontrol.io/en/heatmap) - News heatmap lets you view headlines in a different way - the bigger the title, the more important the article.
  * [Faws](https://faws.com/) - Another News aggregator.
+ * [Maketo News](https://maketo.com/news) - Market-moving Bitcoin news aggregator from 30+ sources with impact score and "Why it matters" insights.
 
 ## Market Screeners
 
