@@ -204,6 +204,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.   
 
 ### Market Making Bots 
+ * [ADAMANT Market-Making Software](https://github.com/Adamant-im/adamant-tradebot) - Open-source self-hosted CEX market-making software for token issuers. Maintains liquidity/depth and market activity without third-party custody or API key sharing.
  * [DexBot](https://github.com/Codaone/DEXBot) - A Trading Bot provided with two very flexible market-making strategies.
  * [HummingBot](https://github.com/CoinAlpha/hummingbot) - Hummingbot: a client for crypto market making.
  * [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot) - Self-hosted crypto trading bot (automated high frequency market making) in Node.js, Angular, Typescript and C++.
