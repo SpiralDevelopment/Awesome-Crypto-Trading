@@ -165,6 +165,7 @@ Play with trading simulators where you can engage with the market and practice y
 
  * [Crypto Screener by Wallmine](https://wallmine.com/cryptocurrency-screener?d=d&o=m) - Cryptocurrency Screener that offers several metrics and filters.
  * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics. 
+ * [RugLens](https://t.me/RugLens_bot) - Telegram bot that checks any EVM token or TON jetton for honeypot and rug-pull risk before you buy.
 
 ## Data Analytics Platforms
  * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
