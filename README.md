@@ -171,6 +171,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Blockchain Charts](https://www.blockchain.com/charts) - Charts on currency statistics, block details, mining information, network activity, wallet activity and market signals.
  * [Coinmetrics](https://coinmetrics.io/) - Coin Metrics provides crypto asset market and network data. 
  * [Datalight](http://datalight.me/) - Blockchain activity, social media and market data analytics tool.
+ * [DepthSignal](https://depthsignal.io/docs) - Market-context and orderbook-intelligence tooling for crypto research and trading workflows.
  * [Glassnode](https://studio.glassnode.com/) - On-Chain Market Indicators. Glassnode also has an [academy](https://academy.glassnode.com/) to learn about diffferent on-chain metrics.
  * [Omenics](https://omenics.com/) - Market sentiment and crypto coins tracker.
  * [Skew](https://skew.com/) - Real-time data analytics for Bitcoin and Ether derivatives: Options, Futures and Perpetual Swaps.
