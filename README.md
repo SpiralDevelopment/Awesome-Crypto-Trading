@@ -133,6 +133,8 @@ Play with trading simulators where you can engage with the market and practice y
 
 * [Udemy's TA Courses](https://www.udemy.com/courses/search/?q=technical%20analysis) - Udemy is an online learning and teaching marketplace with many courses, including courses on technical analysis.
 
+* [Wyckoff Method Course](https://arapov.trade/en/freestudying/wyckoff-method) - Free lesson course on reading price and volume using the Wyckoff method, applicable to crypto markets: market phases, order flow, spring/upthrust.
+
 ## Go-to TA Resources
 
 * [Investopedia](https://www.investopedia.com/) - Investopedia has a comprehensive financial terms dictionary which includes defination for most terms in trading, including cryptocurrency. Investopedia also has an [academy](https://academy.investopedia.com/) where you can learn technical analysis, chart reading skills and other TA related stuff.
