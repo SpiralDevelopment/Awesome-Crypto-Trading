@@ -70,6 +70,7 @@
 * [Glossary](https://blockspot.io/crypto-dictionary/) - Glossary of terms commonly used in the world of blockchain and cryptocurrency.
 
 * [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348) - Introduction to blockchain technology by a real world analogy.
+* [Bitcoin Guide](https://arapov.trade/en/freestudying/bitcoin-guide) - Free guide covering Bitcoin as a trading instrument.
 
 # Cryptocurrency Trading
 
