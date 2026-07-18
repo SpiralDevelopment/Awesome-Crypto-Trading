@@ -76,6 +76,7 @@
 * [Beginner's Guide to Crypto Trading](https://academy.binance.com/economics/a-complete-guide-to-cryptocurrency-trading-for-beginners) - A complete guide to cryptocurrency trading for beginners by Binance academy.
 * [Bitcoin Trading for Beginners](https://www.youtube.com/watch?v=c7VH96My_3I) - Youtube video guide on how to trade Bitcoin for beginners
 * [The Total Beginner’s Guide](https://www.tradingheroes.com/cryptocurrency-trading-guide-beginners/) - The total beginner’s guide to cryptocurrency trading
+* [Cryptocurrency Basics for Beginners](https://arapov.trade/en/freestudying/crypto-basics) - Free guide covering the entry point to crypto markets.
 
 # Trading Platforms
 
