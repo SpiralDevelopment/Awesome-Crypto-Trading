@@ -228,6 +228,7 @@ Play with trading simulators where you can engage with the market and practice y
 ## API and Datasets
 
 ### API
+ * [AgentServices](https://agentservices.to) - Crypto/market data API platform with 54 services, 97 endpoints, and x402 on-chain payments (USDC on Base). Includes MCP server with 37 tools for AI agent integration.
  * [CCXT](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading unified API interface.
  * [CoinAPI](https://www.coinapi.io/) - Cryptocurrency data API solely focused on providing price and market data.
  * [CoinGecko](https://www.coingecko.com/en/api) - CoinGecko provides both market and non-market data such as development & social community statistics, events and on-chain metrics.
