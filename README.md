@@ -186,6 +186,7 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Other Trading Tools 
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
+ * [CoinSir](https://coinsir.net/?utm_source=github&utm_medium=directory&utm_campaign=listing2026) - Real-time Telegram alerts when a coin's move breaks far beyond its own average volatility on Binance Futures, instead of one fixed % for every coin.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
  * [Trade aggregator](https://aggr.trade) - Significant trades aggregator.
