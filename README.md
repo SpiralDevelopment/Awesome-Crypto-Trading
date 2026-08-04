@@ -185,6 +185,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.  
 
 ## Other Trading Tools 
+ * [Pineify](https://pineify.app/) - AI-assisted TradingView toolkit for creating Pine Script strategies, screening crypto markets, and optimizing and analyzing strategy backtests.
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
