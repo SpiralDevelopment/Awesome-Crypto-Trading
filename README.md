@@ -190,6 +190,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
  * [Trade aggregator](https://aggr.trade) - Significant trades aggregator.
  * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
+ * [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence. Tracks 23,000+ wallets with live feed, sentiment index, conviction scoring, and multi-channel alerts.
 
 # Coding Your Own Bots 
 
