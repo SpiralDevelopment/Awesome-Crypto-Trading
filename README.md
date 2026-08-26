@@ -180,6 +180,7 @@ Play with trading simulators where you can engage with the market and practice y
 ## Automate Your Trading
 
  * [3Commas](https://3commas.io/) - Ready-to-use bots; Copy trading platform; Trailing stop-loss/take-profit orders.
+ * [Confident HODLer](https://confidenthodler.com) - An honest, first-person review of BitcoinTAF's Bitcoin trading algorithm and tools, from a real 4+ year subscriber
  * [Cryptohopper](https://www.cryptohopper.com/) - Cryptohopper is rich in features to automate TA strategy. There's also a marketplace where you can copy other users' strategies.
  * [HaasOnline](https://www.haasonline.com/) - HaasOnline offers quite advanced tools to automate TA strategy at a cost which does seem more like an enterprise solution.
  * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.  
