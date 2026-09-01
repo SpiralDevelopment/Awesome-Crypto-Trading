@@ -103,6 +103,7 @@
 ## Charting and Trading Platforms
 
  * [Coinigy](https://www.coinigy.com/) - Charting and trading platform listing more cryptocurrency exchanges in comparison with others mentioned here. But, it does not allow for the sharing of trading ideas within its system.
+ * [ChartCrypto](https://chartcrypto.app/) - Free real-time crypto charting dashboard with 760+ live coin charts, technical indicators, backtesting, market scanner and price predictions. No account required.
  * [Cryptowat.ch](https://cryptowat.ch/) - Charting and trading platform owned by Kraken and is exclusively designed for bitcoin and altcoin traders.
  * [Tradingview](https://www.tradingview.com/) - Biggest charting and trading platform and social network with traders sharing trading ideas.
 
