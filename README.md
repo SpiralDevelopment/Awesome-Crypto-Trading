@@ -186,6 +186,7 @@ Play with trading simulators where you can engage with the market and practice y
 
 ## Other Trading Tools 
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
+ * [Crypto Return Calc](https://cryptoreturncalc.com/) - Calculates profit or loss for one cryptocurrency buy and sell after percentage fees on both sides.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
  * [Trade aggregator](https://aggr.trade) - Significant trades aggregator.
