@@ -235,7 +235,7 @@ Play with trading simulators where you can engage with the market and practice y
 ### Datasets
  * [Bitcoin Trades Data](http://api.bitcoincharts.com/v1/csv/) - Bitcoin trades history data from Bitcoincharts in csv format.
  * [Bitcoinity Data](http://data.bitcoinity.org/) - You can export markets and blockchain data in csv and xlsx file formats.
-* [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 8 EVM chains plus a keyless REST API.
+* [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 7 EVM chains plus a keyless REST API.
 
 
 ## Other Projects
