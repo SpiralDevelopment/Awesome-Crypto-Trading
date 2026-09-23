@@ -188,6 +188,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
+ * [SnapPChart](https://www.snappchart.app) - AI-powered chart screenshot analysis for stocks, forex, crypto and futures traders; grades trade setups with entry, stop and target levels.
  * [Trade aggregator](https://aggr.trade) - Significant trades aggregator.
  * [Whale Alert](https://twitter.com/whale_alert) - Blockchain tracker reporting large transactions.
 
