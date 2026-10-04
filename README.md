@@ -176,6 +176,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Skew](https://skew.com/) - Real-time data analytics for Bitcoin and Ether derivatives: Options, Futures and Perpetual Swaps.
  * [Santiment](https://app.santiment.net/) - Analytics platform for cryptocurrencies, sourcing on-chain, social and development information.
  * [Woobull Charts](http://charts.woobull.com/) - Various price models for Bitcoin.
+ * [FerimanEdge](https://ferimanedge.com/) - Rule-based BTC, ETH and BNB market-regime analytics with public BULL / SIDEWAYS / BEAR states and published outcomes.
 
 ## Automate Your Trading
 
