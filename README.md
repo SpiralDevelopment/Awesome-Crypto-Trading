@@ -169,6 +169,7 @@ Play with trading simulators where you can engage with the market and practice y
 ## Data Analytics Platforms
  * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
  * [Blockchain Charts](https://www.blockchain.com/charts) - Charts on currency statistics, block details, mining information, network activity, wallet activity and market signals.
+ * [CoinBoss](https://www.coinboss.com) - Crypto derivatives data: live liquidations, open interest, and funding rates; free public API.
  * [Coinmetrics](https://coinmetrics.io/) - Coin Metrics provides crypto asset market and network data. 
  * [Datalight](http://datalight.me/) - Blockchain activity, social media and market data analytics tool.
  * [Glassnode](https://studio.glassnode.com/) - On-Chain Market Indicators. Glassnode also has an [academy](https://academy.glassnode.com/) to learn about diffferent on-chain metrics.
