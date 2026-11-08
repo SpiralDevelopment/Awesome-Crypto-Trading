@@ -141,6 +141,7 @@ Play with trading simulators where you can engage with the market and practice y
 
 # Trackers
 ## Market Trackers
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock & crypto ticker sitting in the unused corner space beside the Dock.
  * [Coinmarketcap](https://coinmarketcap.com/) - CoinMarketCap provides information about all digital currencies that are traded in at least one public exchange.
  * [Coingecko](https://www.coingecko.com/en) - Like CMC, CoinGecko is a platform for tracking cryptocurrencies and blockchain assets.
  * [Coin360](https://coin360.com/) - Heatmap of cryptocurrency prices, market capitalizations, and volumes.
