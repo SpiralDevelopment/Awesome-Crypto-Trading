@@ -165,6 +165,7 @@ Play with trading simulators where you can engage with the market and practice y
 
  * [Crypto Screener by Wallmine](https://wallmine.com/cryptocurrency-screener?d=d&o=m) - Cryptocurrency Screener that offers several metrics and filters.
  * [Tradingview Crypto Screener](https://www.tradingview.com/crypto-screener/) - Filter out assets based on their performance and other technical metrics. 
+ * [Altcoin Anomaly Radar](https://github.com/fuba-agent/altcoin-anomaly-radar) - Open-source Python scanner for Bitget USDT perpetuals: funding-rate extremes, 24h moves and volume filters, no API key required.
 
 ## Data Analytics Platforms
  * [BitcoinVisuals](https://bitcoinvisuals.com/) - See how the Bitcoin network is doing from a technical perspective.
