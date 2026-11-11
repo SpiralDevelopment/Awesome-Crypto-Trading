@@ -241,6 +241,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of libraries, packages and resources for Quants.
  * [Awesome Quant ML Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning. 
  * [Crypto Signals](https://github.com/CryptoSignal/crypto-signal) - Command line tool to automate crypto currency TA.
+ * [Crypto-Strategies](https://github.com/CacheCarti/Crypto-Strategies) - Open corpus of ~2,700 crypto trading strategies with per-bot validation report cards and hash-bound certificates.
  * [Gekko Strategies](https://github.com/xFFFFF/Gekko-Strategies) - Strategies to Gekko trading bot with backtests results. 
 
 # Crypto Communities
