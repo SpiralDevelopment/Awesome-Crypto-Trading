@@ -185,6 +185,7 @@ Play with trading simulators where you can engage with the market and practice y
  * [Shrimpy](https://www.shrimpy.io/) - Portfolio management tool with social trading and automated portfolio rebalancing features.  
 
 ## Other Trading Tools 
+ * [cexah](https://www.cexah.com/tools/trading-cost-comparison) - Compare crypto exchange fees, spreads and withdrawal costs with dated inputs.
  * [Coinfarm Online](https://www.coinfarm.online/) - Provides information about long/short positions on derivative markets.
  * [Cryptomiso](https://www.cryptomiso.com/) - Github commit history of cryptocurrencies based on most popular repo.
  * [Datamish](https://datamish.com/) - Charts for long/short positions and liquidations on Bitinex and Bitmex. 
